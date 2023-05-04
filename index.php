@@ -3,14 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi sitio web</title>
+  <title>TurismoPOP</title>
   <!-- Bootstrap -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css" integrity="sha512-NE+DpNKOvnvNjKwJxD8x+2QrF/7zXnL+TtTJgkPnTtCnJsaI/d8t+ZDgJhMnln9X+X/LzWqMrDlGbOmzJZZR+g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/js/bootstrap.min.js" integrity="sha512-5XlSCyV7pBjLmBb7+0Q2A0be7hGxIupgV0xlsvhXk8IudWIf0v+SpH2JxmA1M8u2AnI3V7ScuBaZoCxX7R+P6A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-</head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script></head>
 <body>
   <header>
-    <?php include "./components/header.php"; ?>
+  <?php include "./components/header.php"; ?>
   </header>
 
   <!-- Contenido de la página -->
