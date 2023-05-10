@@ -1,7 +1,7 @@
   <nav class="navbar sticky-top navbar-expand-lg navbar-info bg-info">
     <div class="container-fluid">
       <a class="navbar-brand navbar-dark" href="#">
-        <img src="./assets/img/logo_trans_blanco.png" alt="Bootstrap" width="30" height="24"> TurismoPOP
+        <img src="./assets/img/logos/logo_trans_blanco.png" alt="Bootstrap" width="30" height="24"> TurismoPOP
       </a>
       <button class="navbar-toggler navbar-info" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
