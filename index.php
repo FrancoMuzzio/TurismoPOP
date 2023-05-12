@@ -106,113 +106,61 @@
                 echo '</div>';
               }
             ?>
+            </div>
         </div>
 
-        <!-- Carrousel Paquetes Caribe-->
-        <div class="container mt-3">
-          <div id="carouselPaquetesCaribe" class="carousel carousel-dark slide" data-bs-ride="false">
-            <div class="carousel-indicators">
-            <?php
-                $counter = 0;
-                foreach ($packages['caribe'] as $key => $value) {
-                  if ($key == 0) {
-                    echo '<button type="button" data-bs-target="#carouselPaquetesCaribe" data-bs-slide-to="'.$counter.'" class="active" aria-current="true" aria-label="Slide '.($counter+1).'"></button>';
-                    $counter++;
-                  }else if ($key % 3 == 0) {
-                    echo '<button type="button" data-bs-target="#carouselPaquetesCaribe" data-bs-slide-to="'.$counter.'" aria-label="Slide '.($counter+1).'"></button>';
-                    $counter++;
-                  }
-                } 
-              ?>
-            </div>
-            <div class="carousel-inner">
-              <?php
-                foreach ($packages['caribe'] as $key => $value) {
-                  if ($key == 0) {
-                    echo '<div class="carousel-item active">';
-                    echo '<div class="card-group">';
-                  } else if ($key % 3 == 0) {
-                    echo '</div>';
-                    echo '</div>';
-                    echo '<div class="carousel-item">';
-                    echo '<div class="card-group">';
-                  }
-                  echo '<div class="card">
-                          <img src="'.$value['img'].'" class="card-img-top" alt="'.$value['name'].'">
-                          <div class="card-body">
-                              <h5 class="card-title">'.$value['name'].'</h5>
-                              <p class="card-text">'.$value['desc'].'</p>
-                          </div>
-                        </div>';
-                }
-                echo '</div>';
-                echo '</div>';
-              ?>
-                
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselPaquetesCaribe" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Anterior</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselPaquetesCaribe" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Siguiente</span>
-            </button>
-          </div>
-        </div>
-
-        <!-- Carrousel Paquetes Brasil-->
-        <div class="container mt-3">
-          <div id="carouselPaquetesBrasil" class="carousel carousel-dark slide" data-bs-ride="false">
-            <div class="carousel-indicators">
-            <?php
-                $counter = 0;
-                foreach ($packages['brasil'] as $key => $value) {
-                  if ($key == 0) {
-                    echo '<button type="button" data-bs-target="#carouselPaquetesCaribe" data-bs-slide-to="'.$counter.'" class="active" aria-current="true" aria-label="Slide '.($counter+1).'"></button>';
-                    $counter++;
-                  }else if ($key % 3 == 0) {
-                    echo '<button type="button" data-bs-target="#carouselPaquetesCaribe" data-bs-slide-to="'.$counter.'" aria-label="Slide '.($counter+1).'"></button>';
-                    $counter++;
-                  }
-                } 
-              ?>
-            </div>
-            <div class="carousel-inner">
-            <?php
-                foreach ($packages['brasil'] as $key => $value) {
-                  if ($key == 0) {
-                    echo '<div class="carousel-item active">';
-                    echo '<div class="card-group">';
-                  } else if ($key % 3 == 0) {
-                    echo '</div>';
-                    echo '</div>';
-                    echo '<div class="carousel-item">';
-                    echo '<div class="card-group">';
-                  }
-                  echo '<div class="card">
-                          <img src="'.$value['img'].'" class="card-img-top" alt="'.$value['name'].'">
-                          <div class="card-body">
-                              <h5 class="card-title">'.$value['name'].'</h5>
-                              <p class="card-text">'.$value['desc'].'</p>
-                          </div>
-                        </div>';
-                }
-                echo '</div>';
-                echo '</div>';
-              ?>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselPaquetesBrasil" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Anterior</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselPaquetesBrasil" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Siguiente</span>
-            </button>
-          </div>
-        </div>
-
+        <?php
+        foreach ($packages as $key => $value){
+          echo '<!-- Carrousel Paquetes '.$key.'-->';
+          echo '<div class="container mt-3">';
+          echo '<div id="carouselPaquetes'.$key.'" class="carousel carousel-dark slide" data-bs-ride="false">';
+          echo '<div class="carousel-indicators">';
+          $counter = 0;
+          foreach ($packages[$key] as $k => $v) {
+            if ($k == 0) {
+              echo '<button type="button" data-bs-target="#carouselPaquetes'.$k.'" data-bs-slide-to="'.$counter.'" class="active" aria-current="true" aria-label="Slide '.($counter+1).'"></button>';
+              $counter++;
+            }else if ($k % 3 == 0) {
+              echo '<button type="button" data-bs-target="#carouselPaquetes'.$k.'" data-bs-slide-to="'.$counter.'" aria-label="Slide '.($counter+1).'"></button>';
+              $counter++;
+            }
+          } 
+          echo '</div>';
+          echo '<div class="carousel-inner">';
+          foreach ($packages[$key] as $k => $v) {
+            if ($k == 0) {
+              echo '<div class="carousel-item active">';
+              echo '<div class="card-group">';
+            } else if ($k % 3 == 0) {
+              echo '</div>';
+              echo '</div>';
+              echo '<div class="carousel-item">';
+              echo '<div class="card-group">';
+            }
+            echo '<div class="card">
+                    <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
+                    <div class="card-body">
+                        <h5 class="card-title">'.$v['name'].'</h5>
+                        <p class="card-text">'.$v['desc'].'</p>
+                    </div>
+                  </div>';
+          }
+          echo '</div>';
+          echo '</div>';
+          echo '</div>';
+          echo '<button class="carousel-control-prev" type="button" data-bs-target="#carouselPaquetes'.$key.'" data-bs-slide="prev">';
+          echo '<span class="carousel-control-prev-icon" aria-hidden="true"></span>';
+          echo '<span class="visually-hidden">Anterior</span>';
+          echo '</button>';
+          echo '<button class="carousel-control-next" type="button" data-bs-target="#carouselPaquetes'.$key.'" data-bs-slide="next">';
+          echo '<span class="carousel-control-next-icon" aria-hidden="true"></span>';
+          echo '<span class="visually-hidden">Siguiente</span>';
+          echo '</button>';
+          echo '</div>';
+          echo '</div>';
+        }
+        ?>
+        
         <!-- banners about us -->
         <div class="container mt-3">
           <div class="row">
