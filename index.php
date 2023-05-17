@@ -14,9 +14,6 @@
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
     <?php include "./pages/components/imports.php"; ?>
     <?php include "./pages/components/header.php"; ?>
-    <div class="container d-flex flex-column bg-light">
-    <main class="flex-grow-1">
-    <div class="container">
       <!-- Carrousel de imagenes -->
       <div class="container mt-3">
         <div id="carouselPublicidad" class="carousel slide">
