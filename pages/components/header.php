@@ -1,3 +1,4 @@
+<header>
   <nav class="navbar sticky-top navbar-expand-lg navbar-info bg-info">
     <div class="container-fluid">
       <a class="navbar-brand navbar-dark fw-bold" href="#">
@@ -18,4 +19,4 @@
       </div>
     </div>
   </nav>
-
+</header>
