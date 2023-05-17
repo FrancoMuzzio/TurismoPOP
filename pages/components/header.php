@@ -10,7 +10,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link text-white" href="#">Iniciar sesión</a>
+            <a class="nav-link text-white" href="/TurismoPOP/pages/login.php">Iniciar sesión</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-white" href="/TurismoPOP/pages/register.php">Registrarse</a>
