@@ -10,7 +10,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP</title>
-  <link rel="shortcut icon" href="./assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
     <?php include "./pages/components/imports.php"; ?>
     <?php include "./pages/components/header.php"; ?>

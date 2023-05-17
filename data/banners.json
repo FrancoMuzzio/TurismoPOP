@@ -1,76 +1,76 @@
 {
     "ads":[
         {
-        "img": "./assets/img/fondos/fondo_001.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_001.png",
         "desc": "Puente"
         },
         {
-        "img": "./assets/img/fondos/fondo_002.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_002.png",
         "desc": "Venecia"
         },
         {
-        "img": "./assets/img/fondos/fondo_003.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_003.png",
         "desc": "Cañon"
         },
         {
-        "img": "./assets/img/fondos/fondo_004.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_004.png",
         "desc": "Ruinas"
         },
         {
-        "img": "./assets/img/fondos/fondo_005.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_005.png",
         "desc": "Amigos"
         },
         {
-        "img": "./assets/img/fondos/fondo_006.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_006.png",
         "desc": "Fondo ruido"
         },
         {
-        "img": "./assets/img/fondos/fondo_007.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_007.png",
         "desc": "Fondo rosa"
         },
         {
-        "img": "./assets/img/fondos/fondo_008.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_008.png",
         "desc": "Fondo pintura"
         },
         {
-        "img": "./assets/img/fondos/fondo_009.png",
+        "img": "/TurismoPOP/assets/img/fondos/fondo_009.png",
         "desc": "Fondo violeta"
         }
     ],
     "help":{
         "first":[
             {
-            "img": "./assets/img/banners/banner_universal_assistance.png",
+            "img": "/TurismoPOP/assets/img/banners/banner_universal_assistance.png",
             "desc": "Activa tu tranquilidad"
             },
             {
-                "img": "./assets/img/banners/banner_web_checkin.png",
+                "img": "/TurismoPOP/assets/img/banners/banner_web_checkin.png",
                 "desc": "Web checkin"
             }
             
         ],
         "second":[
             {
-            "img": "./assets/img/banners/banner_feriados.png",
+            "img": "/TurismoPOP/assets/img/banners/banner_feriados.png",
             "desc": "Viaja en feriado"
             }
         ]
     },
     "about_us":[
         {
-        "img": "./assets/img/banners/about_us/1.jpeg",
+        "img": "/TurismoPOP/assets/img/banners/about_us/1.jpeg",
         "desc": "Bandera argentina en el sur."
         },
         {
-        "img": "./assets/img/banners/about_us/2.jpeg",
+        "img": "/TurismoPOP/assets/img/banners/about_us/2.jpeg",
         "desc": "Avion volando."
         },
         {
-        "img": "./assets/img/banners/about_us/3.jpeg",
+        "img": "/TurismoPOP/assets/img/banners/about_us/3.jpeg",
         "desc": "Feria americana"
         },
         {
-        "img": "./assets/img/banners/about_us/4.jpeg",
+        "img": "/TurismoPOP/assets/img/banners/about_us/4.jpeg",
         "desc": "Empresario hablando por telefono"
         }
     ]

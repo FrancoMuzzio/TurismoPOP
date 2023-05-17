@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP - Registrarse</title>
-  <link rel="shortcut icon" href="../../assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
 <?php include "./components/imports.php"; ?>
 <?php include "./components/header.php"; ?>

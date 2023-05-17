@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <header>
   <nav class="navbar sticky-top navbar-expand-lg navbar-info bg-info">
     <div class="container-fluid">
@@ -9,12 +10,21 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link text-white" href="/TurismoPOP/pages/login.php">Iniciar sesión</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-white" href="/TurismoPOP/pages/register.php">Registrarse</a>
-          </li>
+<?php
+if (isset($_SESSION['loggedUser'])) {
+  echo '<li class="nav-item">';
+  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/logout.php">Cerrar sesión</a>';
+  echo '</li>';
+}else{
+  echo '<li class="nav-item">';
+  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/login.php">Iniciar sesión</a>';
+  echo '</li>';
+  echo '<li class="nav-item">';
+  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/register.php">Registrarse</a>';
+  echo '</li>';
+}
+?>
+
         </ul>
       </div>
     </div>
