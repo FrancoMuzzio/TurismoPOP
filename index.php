@@ -214,7 +214,15 @@
           </div>
         </div>
       </div>
-
+      
+      <!-- medios de pago -->
+      <div class="container mt-3">
+        <div class="row">
+          <div class="col text-center">
+            <img src="assets\img\medios_de_pago.png" alt="Medios de pago: Transferencia bancaria, Tarjeta de credito, Ahora 12 y 18, Mercado pago" class="img-fluid border">
+          </div>
+        </div>
+      </div>
 
       <!-- separacion con el footer -->
       <div class="container" style="margin-top:10%;" ></div>
