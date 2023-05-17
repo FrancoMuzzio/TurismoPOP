@@ -1,9 +1,1 @@
-[
-    {
-        "username":"franco@gmail.com",
-        "password":"password",
-        "role":"admin",
-        "nombre":"Franco",
-        "muzzio":"Muzzio"
-    }
-]
+[{"username":"franco@gmail.com","password":"password","role":"admin","name":"Franco","surname":"Muzzio"},{"name":"maxo","surname":"maxo","role":"user","username":"maxo@gmail.com","password":"pass"}]

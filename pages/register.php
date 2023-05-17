@@ -8,32 +8,47 @@
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
 <?php include "./components/imports.php"; ?>
 <?php include "./components/header.php"; ?>
-
+<?php
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+  $json_users = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/users.json');
+  $users = json_decode($json_users, true);
+  $users[] = [
+    'name' => $_POST['name'],
+    'surname' => $_POST['surname'],
+    'role' => 'user',
+    'username' => $_POST['username'],
+    'password' => $_POST['password'],
+  ];
+  file_put_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/users.json', json_encode($users));
+  header('Location: /TurismoPOP/pages/login.php');
+  exit();
+}
+?>
 <!-- Register form -->
 <div class="container-fluid">
   <div class="row justify-content-center mt-5">
     <div class="col-lg-6">
       <h4 class="text-center mb-4">Registro</h4>
-      <form>
+      <form method="POST" action="">
         <div class="mb-3">
           <label for="nombre" class="form-label">Nombre</label>
-          <input type="text" class="form-control" id="nombre" placeholder="Ingresa tu nombre">
+          <input name="name" type="text" class="form-control" id="nombre" placeholder="Ingresa tu nombre">
         </div>
         <div class="mb-3">
           <label for="apellido" class="form-label">Apellido</label>
-          <input type="text" class="form-control" id="apellido" placeholder="Ingresa tu apellido">
+          <input name="surname" type="text" class="form-control" id="apellido" placeholder="Ingresa tu apellido">
         </div>
         <div class="mb-3">
           <label for="email" class="form-label">Correo electrónico</label>
-          <input type="email" class="form-control" id="email" placeholder="Ingresa tu correo electrónico">
+          <input name="username" type="email" class="form-control" id="email" placeholder="Ingresa tu correo electrónico">
         </div>
         <div class="mb-3">
-          <label for="contraseña" class="form-label">Contraseña</label>
-          <input type="password" class="form-control" id="contraseña" placeholder="Ingresa tu contraseña">
+          <label for="password" class="form-label">Contraseña</label>
+          <input name="password" type="password" class="form-control" id="password" placeholder="Ingresa tu contraseña">
         </div>
         <div class="mb-3">
-          <label for="repetir-contraseña" class="form-label">Repetir contraseña</label>
-          <input type="password" class="form-control" id="repetir-contraseña" placeholder="Repite tu contraseña">
+          <label for="repetir-password" class="form-label">Repetir contraseña</label>
+          <input type="password" class="form-control" id="repetir-password" placeholder="Repite tu contraseña">
         </div>
         <div class="text-center">
           <button type="submit" class="btn btn-primary">Registrarse</button>
