@@ -55,6 +55,24 @@
             "desc": "Viaja en feriado"
             }
         ]
-    }
+    },
+    "about_us":[
+        {
+        "img": "./assets/img/banners/about_us/1.jpeg",
+        "desc": "Bandera argentina en el sur."
+        },
+        {
+        "img": "./assets/img/banners/about_us/2.jpeg",
+        "desc": "Avion volando."
+        },
+        {
+        "img": "./assets/img/banners/about_us/3.jpeg",
+        "desc": "Feria americana"
+        },
+        {
+        "img": "./assets/img/banners/about_us/4.jpeg",
+        "desc": "Empresario hablando por telefono"
+        }
+    ]
 }
   
