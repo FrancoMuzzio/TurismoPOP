@@ -28,20 +28,20 @@
 <!-- Carrouseles de paquetes -->
 <?php
   foreach ($packages as $key => $value){
-    echo '<!-- Carrousel Paquetes '.$key.'-->';
+    echo '<!-- Carrousel Paquetes '.str_replace(' ', '', $key).'-->';
     echo '<div class="container mt-3">';
     echo '<h4>'.ucfirst($key).'</h4>';
     echo '</div>';
     echo '<div class="container mt-3">';
-    echo '<div id="carouselPaquetes'.$key.'" class="carousel carousel-dark slide" data-bs-ride="false">';
+    echo '<div id="carouselPaquetes'.str_replace(' ', '', $key).'" class="carousel carousel-dark slide" data-bs-ride="false">';
     echo '<div class="carousel-indicators">';
     $counter = 0;
     foreach ($packages[$key] as $k => $v) {
       if ($k == 0) {
-        echo '<button type="button" data-bs-target="#carouselPaquetes'.$k.'" data-bs-slide-to="'.$counter.'" class="active" aria-current="true" aria-label="Slide '.($counter+1).'"></button>';
+        echo '<button type="button" data-bs-target="#carouselPaquetes'.str_replace(' ', '', $key).'" data-bs-slide-to="'.$counter.'" class="active" aria-current="true" aria-label="Slide '.($counter+1).'"></button>';
         $counter++;
       }else if ($k % 3 == 0) {
-        echo '<button type="button" data-bs-target="#carouselPaquetes'.$k.'" data-bs-slide-to="'.$counter.'" aria-label="Slide '.($counter+1).'"></button>';
+        echo '<button type="button" data-bs-target="#carouselPaquetes'.str_replace(' ', '', $key).'" data-bs-slide-to="'.$counter.'" aria-label="Slide '.($counter+1).'"></button>';
         $counter++;
       }
     } 
@@ -68,11 +68,11 @@
     echo '</div>';
     echo '</div>';
     echo '</div>';
-    echo '<button class="carousel-control-prev" type="button" data-bs-target="#carouselPaquetes'.$key.'" data-bs-slide="prev">';
+    echo '<button class="carousel-control-prev" type="button" data-bs-target="#carouselPaquetes'.str_replace(' ', '', $key).'" data-bs-slide="prev">';
     echo '<span class="carousel-control-prev-icon" aria-hidden="true"></span>';
     echo '<span class="visually-hidden">Anterior</span>';
     echo '</button>';
-    echo '<button class="carousel-control-next" type="button" data-bs-target="#carouselPaquetes'.$key.'" data-bs-slide="next">';
+    echo '<button class="carousel-control-next" type="button" data-bs-target="#carouselPaquetes'.str_replace(' ', '', $key).'" data-bs-slide="next">';
     echo '<span class="carousel-control-next-icon" aria-hidden="true"></span>';
     echo '<span class="visually-hidden">Siguiente</span>';
     echo '</button>';
