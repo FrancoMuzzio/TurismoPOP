@@ -74,7 +74,15 @@
           <h3 class="card-text fw-bold text-success"><?php echo $package['price'] ?> U$D por persona</h3>
           <div class="row justify-content-end">
             <div class="col-auto">
-              <a type="button" class="btn btn-outline-success fw-bold" href="/TurismoPOP/pages/buy.php?id=<?php $package['id'] ?>">COMPRAR</a>
+              <form class="d-flex align-items-center justify-content-end">
+                <div class="form-group mb-0 col-auto">
+                  <div class="input-group">
+                    <input name="personas" type="number" class="form-control" id="personas" min=1 value=1 placeholder="Numero de personas">
+                    <input type="hidden" name="package">
+                    <button type="submit" class="btn btn-outline-success fw-bold">COMPRAR</button>
+                  </div>
+                </div>
+              </form>
             </div>
           </div>
         </div>

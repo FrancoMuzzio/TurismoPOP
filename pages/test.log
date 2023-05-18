@@ -1,29 +1,27 @@
 Array
 (
-    [id] => 8
-    [name] => Buzios
-    [desc] => Armação dos Búzios es un destino turístico de lujo con numerosas playas, incluyendo Ferradura y Geribá, y la Rua das Pedras, que ofrece restaurantes y vida nocturna. Está ubicado en una península al este de Río de Janeiro.
-    [long_desc] => Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.
+    [id] => 2
+    [name] => Catalonia Gran Dominicus
+    [desc] => Catalonia Gran Dominicus es un resort en Bayahibe, República Dominicana, con instalaciones como piscinas, restaurantes, bares, deportes acuáticos y actividades de entretenimiento.
+    [long_desc] => ¡Embárcate en una aventura inolvidable en el hermoso complejo turístico Catalonia Gran Dominicus! Ubicado en la impresionante región de Bayahibe, en la República Dominicana, este resort te ofrece una combinación perfecta de belleza natural, comodidad y entretenimiento. Con playas de arena blanca, aguas cristalinas y un ambiente tropical exuberante, este destino te cautivará desde el momento en que llegues. Disfruta de una experiencia única llena de diversión, relajación y hospitalidad incomparable.
     [activities] => Array
         (
-            [0] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [1] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [2] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [3] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [4] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [5] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [0] => Deportes acuáticos: Sumérgete en las aguas turquesas y participa en una variedad de actividades emocionantes como snorkel, buceo, kayak y paddleboarding. Explora los coloridos arrecifes de coral y descubre la fascinante vida marina que habita en ellos.
+            [1] => Excursiones a las islas cercanas: Descubre la belleza de las islas Saona y Catalina en emocionantes excursiones. Disfruta de playas vírgenes, aguas cristalinas y paisajes impresionantes. Relájate en una hamaca bajo las palmeras y captura recuerdos inolvidables en fotografías.
+            [2] => Clases de baile y música: Aprende a moverte al ritmo de la bachata y el merengue con divertidas clases de baile. Sumérgete en la cultura dominicana mientras disfrutas de música en vivo y animadas fiestas temáticas.
+            [3] => Relajación en la playa y el spa: Disfruta del sol en las hermosas playas de arena blanca, sumérgete en las piscinas del resort y déjate consentir en el spa. Disfruta de tratamientos rejuvenecedores y masajes relajantes que te harán sentir renovado y revitalizado.
+            [4] => Excursiones a lugares históricos: Explora la rica historia de la República Dominicana visitando lugares como Santo Domingo, la capital del país, y el Parque Nacional del Este, donde encontrarás cuevas prehistóricas y pinturas rupestres.
         )
 
     [benefits] => Array
         (
-            [0] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [1] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [2] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [3] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [4] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-            [5] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [0] => Alojamiento de primera calidad en Catalonia Gran Dominicus, un resort de lujo con habitaciones cómodas y bien equipadas.
+            [1] => Régimen de alimentación completo que incluye deliciosas opciones gastronómicas en los diversos restaurantes del resort.
+            [2] => Acceso a todas las instalaciones del resort, como piscinas, gimnasio, canchas deportivas y áreas de entretenimiento.
+            [3] => Servicio de transporte desde y hacia el aeropuerto para mayor comodidad.
+            [4] => Personal atento y amable que estará a tu disposición para asegurarse de que disfrutes al máximo de tu estancia.
         )
 
-    [price] => 999.99
-    [img] => /TurismoPOP/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg
+    [price] => 799.99
+    [img] => /TurismoPOP/assets/img/packages/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg
 )
