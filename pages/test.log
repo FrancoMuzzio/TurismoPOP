@@ -1,17 +1,27 @@
 Array
 (
-    [id] => 4
-    [name] => Iberostar
-    [desc] => Iberostar Dominicana Punta Cana es un resort todo incluido en Punta Cana, República Dominicana, con una variedad de instalaciones y servicios, como piscinas, restaurantes, spa y entretenimiento.
-    [long_desc] => 
+    [id] => 5
+    [name] => RIU Hotel
+    [desc] => RIU Hotels es una cadena hotelera española con presencia en varios destinos turísticos de todo el mundo.
+    [long_desc] => ¡Bienvenido al extraordinario RIU Hotel! Situado en un destino de ensueño, este lujoso resort te ofrece una experiencia de vacaciones inigualable. Con una ubicación privilegiada y unas instalaciones de primer nivel, el RIU Hotel es el lugar perfecto para disfrutar de días llenos de diversión, relajación y lujo. Desde playas paradisíacas hasta una variedad de opciones gastronómicas y actividades emocionantes, este paquete de viajes te garantiza una estadía inolvidable.
     [activities] => Array
         (
+            [0] => Diversión en la playa: Sumérgete en las aguas cristalinas y disfruta del sol en las hermosas playas que rodean el resort. Relájate en una tumbona mientras saboreas una refrescante bebida tropical o participa en emocionantes actividades acuáticas como el snorkel, el paddleboarding o el parasailing.
+            [1] => Experiencias culinarias: Deléitate con una amplia selección de opciones gastronómicas en los restaurantes de clase mundial del hotel. Desde cocina internacional hasta platos locales auténticos, cada comida será una deliciosa experiencia para tu paladar.
+            [2] => Entretenimiento nocturno: Disfruta de animadas noches en el hotel con espectáculos en vivo, música en vivo y fiestas temáticas. Baila bajo las estrellas y crea recuerdos inolvidables mientras te sumerges en la vibrante vida nocturna del resort.
+            [3] => Relax en el spa: Permítete un tiempo de relajación en el spa del hotel. Disfruta de tratamientos de bienestar, masajes rejuvenecedores y circuitos de hidroterapia que te ayudarán a renovar tu cuerpo y tu mente.
+            [4] => Actividades deportivas: Mantente activo durante tus vacaciones con una amplia gama de actividades deportivas disponibles en el resort. Ya sea que prefieras el tenis, el golf, el voleibol de playa o el fitness, encontrarás opciones para satisfacer tu gusto por el deporte.
         )
 
     [benefits] => Array
         (
+            [0] => Alojamiento de lujo en el RIU Hotel, con habitaciones elegantes y comodidades modernas para garantizar tu confort.
+            [1] => Régimen de alimentación completo que incluye desayuno, almuerzo, cena y opciones de snacks durante el día. Deléitate con una amplia variedad de platos para satisfacer todos los gustos.
+            [2] => Acceso a las instalaciones y servicios del resort, como piscinas, gimnasio, spa, club infantil y áreas de entretenimiento.
+            [3] => Servicio de atención al cliente las 24 horas para garantizar que todas tus necesidades sean atendidas durante tu estancia en el hotel.
+            [4] => Ubicación privilegiada cerca de atracciones turísticas, playas de ensueño y actividades emocionantes para que puedas explorar y disfrutar al máximo tu destino.
         )
 
-    [price] => 
-    [img] => /TurismoPOP/assets/img/packages/caribe/iberostarhd-pool-400x240-crop.jpg
+    [price] => 1199.99 U$D por persona
+    [img] => /TurismoPOP/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg
 )

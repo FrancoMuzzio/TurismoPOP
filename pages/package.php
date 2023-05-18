@@ -38,7 +38,7 @@
 </div>
 <div class="container mt-3">
   <div class="row">
-    <div class="col-12">
+    <div class="col-6">
         <h3>Descripción:</h3>
         <p><?php echo $package['desc'] ?></p>
         <br>
@@ -61,20 +61,24 @@
         ?>
         </ul>
         <br>
-        <div class="d-flex justify-content-end">
-          <div class="card" style="width: 30rem;">
-            <div class="card-body">
-              <h4 class="card-title">Precio:</h4>
-              <h3 class="card-text fw-bold text-success"><?php echo $package['price'] ?></h3>
-              <div class="row justify-content-end">
-                <div class="col-auto">
-                  <a type="button" class="btn btn-outline-success fw-bold" href="/TurismoPOP/pages/buy.php?id=<?php $package['id'] ?>">COMPRAR</a>
-                </div>
-              </div>
+      </div>
+    <div class="col-6"> 
+      <div class="card">
+        <div class="card-body text-center">
+          <img src="<?php echo $package['img'] ?>" class="img-fluid border" alt="<?php echo $package['desc'] ?>">
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title">Precio:</h4>
+          <h3 class="card-text fw-bold text-success"><?php echo $package['price'] ?></h3>
+          <div class="row justify-content-end">
+            <div class="col-auto">
+              <a type="button" class="btn btn-outline-success fw-bold" href="/TurismoPOP/pages/buy.php?id=<?php $package['id'] ?>">COMPRAR</a>
             </div>
           </div>
         </div>
-        
+      </div>
     </div>
   </div>
 </div>
