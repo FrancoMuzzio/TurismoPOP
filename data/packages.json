@@ -1,119 +1,212 @@
 {
-    "caribe":
-        [
-            {
-                "id": 1,
-                "name": "Bayahibe",
-                "desc": "Bayahíbe es una ciudad turística en la costa del Caribe de República Dominicana. Es conocida por sus playas de arena y sus sitios para el buceo.",
-                "img": "/TurismoPOP/assets/img/packages/caribe/bayahibe_1.jpg"
-            },
-            {
-                "id": 2,
-                "name": "Catalonia Gran Dominicus",
-                "desc": "Catalonia Gran Dominicus es un resort en Bayahibe, República Dominicana, con instalaciones como piscinas, restaurantes, bares, deportes acuáticos y actividades de entretenimiento.",
-                "img": "/TurismoPOP/assets/img/packages/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg"
-            },
-            {
-                "id": 3,
-                "name": "Ocean Coral & Turquesa",
-                "desc": "Ocean Coral & Turquesa es un resort en la Riviera Maya, México, con servicios como piscinas, restaurantes, spa y actividades de entretenimiento para sus huéspedes.",
-                "img": "/TurismoPOP/assets/img/packages/caribe/htl_coral_y_turquesa-400x240-crop.jpg"
-            },
-            {
-                "id": 4,
-                "name": "Iberostar",
-                "desc": "Iberostar Dominicana Punta Cana es un resort todo incluido en Punta Cana, República Dominicana, con una variedad de instalaciones y servicios, como piscinas, restaurantes, spa y entretenimiento.",
-                "img": "/TurismoPOP/assets/img/packages/caribe/iberostarhd-pool-400x240-crop.jpg"
-            },
-            {
-                "id": 5,
-                "name": "RIU Hotel",
-                "desc": "RIU Hotels es una cadena hotelera española con presencia en varios destinos turísticos de todo el mundo.",
-                "img": "/TurismoPOP/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg"
-            },
-            {
-                "id": 6,
-                "name": "Riviera Maya",
-                "desc": "La Riviera Maya​ es una zona turística de México, situada en la costa del mar Caribe, en el estado de Quintana Roo.",
-                "img": "/TurismoPOP/assets/img/packages/caribe/riviera-maya_1.jpg"
-            }
-        ],
-    "brasil":
-        [
-            {
-                "id": 7,
-                "name": "Angra dos Reis",
-                "desc": "Angra dos Reis es un municipio de Río de Janeiro con 365 islas, playas y biodiversidad en la Isla Grande, donde se encuentra Vila do Abraão y la Iglesia de San Sebastián, además de ruinas de la prisión Cândido Mendes.",
-                "img": "/TurismoPOP/assets/img/packages/brasil/ANGRA-DOS-REIS-con-Aerolineas-Argentinas-2021_14.jpg"
-            },
-            {
-                "id": 8,
-                "name": "Buzios",
-                "desc": "Armação dos Búzios es un destino turístico de lujo con numerosas playas, incluyendo Ferradura y Geribá, y la Rua das Pedras, que ofrece restaurantes y vida nocturna. Está ubicado en una península al este de Río de Janeiro.",
-                "img": "/TurismoPOP/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg"
-            },
-            {
-                "id": 9,
-                "name": "Costa Do Sauipe",
-                "desc": "Costa do Sauípe es un complejo turístico en Bahía, Brasil, con alojamiento, restaurantes, tiendas y actividades de ocio y entretenimiento para sus huéspedes, además de un centro de convenciones y eventos.",
-                "img": "/TurismoPOP/assets/img/packages/brasil/Costa-Do-Sauipe--Semana-Santa-2021---Cupos-Latam_77.jpg"
-            },
-            {
-                "id": 10,
-                "name": "Porto de Galinhas",
-                "desc": "Puerto de Gallinas es un pueblo y playa de la municipalidad de Ipojuca en el estado de Pernambuco, Brasil.",
-                "img": "/TurismoPOP/assets/img/packages/brasil/porto-de-galinhas_1.jpg"
-            },
-            {
-                "id": 11,
-                "name": "Salvador de Bahía",
-                "desc": "Salvador es la capital de Bahía, Brasil, conocida por su arquitectura colonial portuguesa, cultura afrobrasileña y costa tropical. Pelourinho es el centro histórico con calles de adoquines, edificios coloridos e iglesias barrocas como la de San Francisco, con trabajos en madera bañados en oro.",
-                "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_26.jpg"
-            },
-            {
-                "id": 12,
-                "name": "Ibis Salvador Aeroporto Hangar",
-                "desc": "Ibis Salvador Aeroporto Hangar es un hotel económico ubicado cerca del aeropuerto de Salvador, en Brasil. Ofrece alojamiento básico con habitaciones sencillas y funcionales, además de servicios como desayuno, Wi-Fi gratuito, estacionamiento y transporte al aeropuerto.",
-                "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
-            }
-
-        ],"New York":
-        [
-            {
-                "id": 13,
-                "name": "City Tour",
-                "desc": "Una de las primeras propuestas que se deben realizar en la ciudad es el traicional city tour por los lugares más emblemanticos ",
-                "img": "/TurismoPOP/assets/img/packages/new_york/ny002.png"
-            },
-            {
-                "id": 14,
-                "name": "City Tour nocturno",
-                "desc": "Otra de las propuestas innovadoras es la realización del tour nocturno para ver la ciudad de noche con su luces y actividades que nunca terminan",
-                "img": "/TurismoPOP/assets/img/packages/new_york/ny001.jpg"
-            },
-            {
-                "id": 15,
-                "name": "Paseo de fotografia en la gran Manzana",
-                "desc": "Salida grupal para poder sacar las mejores fotografias de la ciudad.",
-                "img": "/TurismoPOP/assets/img/packages/new_york/ny003.jpg"
-            },
-            {
-                "id": 16,
-                "name": "TimesQuare",
-                "desc": "recorrido por uno de los puntos estrategicos de la ciudad ",
-                "img": "/TurismoPOP/assets/img/packages/new_york/ny004.jpg"
-            },
-            {
-                "id": 17,
-                "name": "Visita a la estatua de la libertad",
-                "desc": "Visita guiada a la estatua de la libertad con guia incluido",
-                "img": "/TurismoPOP/assets/img/packages/new_york/ny005.jpeg"
-            },
-            {
-                "id": 18,
-                "name": "Paseo nocturno",
-                "desc": "paso nocturno fuera de la ciudad en barco ",
-                "img": "/TurismoPOP/assets/img/packages/new_york/ny006.webp"
-            }
-        ]
+  "caribe": [
+    {
+      "id": 1,
+      "name": "Bayahibe",
+      "desc": "Bayahíbe es una ciudad turística en la costa del Caribe de República Dominicana. Es conocida por sus playas de arena y sus sitios para el buceo.",
+      "long_desc": "¡Descubre la belleza y la emoción de la República Dominicana con nuestro exclusivo paquete de viajes a \"Catalonia Gran Dominicus\"! Ubicado en la hermosa región de Bayahibe, este complejo turístico te brindará una experiencia inolvidable. Disfruta de playas de arena blanca, aguas cristalinas y una exuberante vegetación tropical mientras te relajas en un ambiente paradisíaco. Con alojamiento de calidad, actividades emocionantes y una hospitalidad inigualable, este paquete de viajes es perfecto para aquellos que buscan una escapada memorable.",
+      "activities": [
+        "Excursiones a las islas Saona y Catalina: Explora las islas cercanas y maravíllate con sus hermosos paisajes, playas vírgenes y arrecifes de coral impresionantes. Disfruta de actividades acuáticas como snorkel y buceo para descubrir la rica vida marina que habita en estas aguas.",
+        "Deportes acuáticos: Aventúrate en actividades emocionantes como el kayak, el paddleboarding y el windsurf. Deslízate sobre las olas o rema suavemente mientras disfrutas del cálido sol caribeño.",
+        "Clases de baile y música: Sumérgete en la cultura dominicana aprendiendo los movimientos de bachata y merengue. Disfruta de animadas noches de baile y música en vivo en el resort.",
+        "Excursiones a sitios históricos: Explora la rica historia de la República Dominicana visitando lugares como Santo Domingo, la primera ciudad fundada en América, y el Parque Nacional del Este, hogar de cuevas prehistóricas y petroglifos.",
+        "Relajación en la playa y el spa: Toma el sol en las hermosas playas, nada en las piscinas del resort y déjate consentir con tratamientos de spa rejuvenecedores."
+      ],
+      "benefits": [
+        "Alojamiento de calidad en Catalonia Gran Dominicus, un resort de lujo con todas las comodidades necesarias para una estancia confortable.",
+        "Alimentación completa: disfruta de deliciosos platos locales e internacionales en los restaurantes del resort.",
+        "Acceso a todas las instalaciones del resort, incluyendo piscinas, gimnasio, canchas deportivas y áreas de entretenimiento.",
+        "Servicio de transporte desde y hacia el aeropuerto para mayor comodidad.",
+        "Asistencia de personal experto para garantizar que tu estadía sea placentera y que todas tus necesidades sean atendidas."
+      ],
+      "price": "999.99 U$D por persona",
+      "img": "/TurismoPOP/assets/img/packages/caribe/bayahibe_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Catalonia Gran Dominicus",
+      "desc": "Catalonia Gran Dominicus es un resort en Bayahibe, República Dominicana, con instalaciones como piscinas, restaurantes, bares, deportes acuáticos y actividades de entretenimiento.",
+      "long_desc": "¡Embárcate en una aventura inolvidable en el hermoso complejo turístico Catalonia Gran Dominicus! Ubicado en la impresionante región de Bayahibe, en la República Dominicana, este resort te ofrece una combinación perfecta de belleza natural, comodidad y entretenimiento. Con playas de arena blanca, aguas cristalinas y un ambiente tropical exuberante, este destino te cautivará desde el momento en que llegues. Disfruta de una experiencia única llena de diversión, relajación y hospitalidad incomparable.",
+      "activities": [
+        "Deportes acuáticos: Sumérgete en las aguas turquesas y participa en una variedad de actividades emocionantes como snorkel, buceo, kayak y paddleboarding. Explora los coloridos arrecifes de coral y descubre la fascinante vida marina que habita en ellos.",
+        "Excursiones a las islas cercanas: Descubre la belleza de las islas Saona y Catalina en emocionantes excursiones. Disfruta de playas vírgenes, aguas cristalinas y paisajes impresionantes. Relájate en una hamaca bajo las palmeras y captura recuerdos inolvidables en fotografías.",
+        "Clases de baile y música: Aprende a moverte al ritmo de la bachata y el merengue con divertidas clases de baile. Sumérgete en la cultura dominicana mientras disfrutas de música en vivo y animadas fiestas temáticas.",
+        "Relajación en la playa y el spa: Disfruta del sol en las hermosas playas de arena blanca, sumérgete en las piscinas del resort y déjate consentir en el spa. Disfruta de tratamientos rejuvenecedores y masajes relajantes que te harán sentir renovado y revitalizado.",
+        "Excursiones a lugares históricos: Explora la rica historia de la República Dominicana visitando lugares como Santo Domingo, la capital del país, y el Parque Nacional del Este, donde encontrarás cuevas prehistóricas y pinturas rupestres."
+      ],
+      "benefits": [
+        "Alojamiento de primera calidad en Catalonia Gran Dominicus, un resort de lujo con habitaciones cómodas y bien equipadas.",
+        "Régimen de alimentación completo que incluye deliciosas opciones gastronómicas en los diversos restaurantes del resort.",
+        "Acceso a todas las instalaciones del resort, como piscinas, gimnasio, canchas deportivas y áreas de entretenimiento.",
+        "Servicio de transporte desde y hacia el aeropuerto para mayor comodidad.",
+        "Personal atento y amable que estará a tu disposición para asegurarse de que disfrutes al máximo de tu estancia."
+      ],
+      "price": "799.99 U$D por persona",
+      "img": "/TurismoPOP/assets/img/packages/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ocean Coral & Turquesa",
+      "desc": "Ocean Coral & Turquesa es un resort en la Riviera Maya, México, con servicios como piscinas, restaurantes, spa y actividades de entretenimiento para sus huéspedes.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/caribe/htl_coral_y_turquesa-400x240-crop.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Iberostar",
+      "desc": "Iberostar Dominicana Punta Cana es un resort todo incluido en Punta Cana, República Dominicana, con una variedad de instalaciones y servicios, como piscinas, restaurantes, spa y entretenimiento.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/caribe/iberostarhd-pool-400x240-crop.jpg"
+    },
+    {
+      "id": 5,
+      "name": "RIU Hotel",
+      "desc": "RIU Hotels es una cadena hotelera española con presencia en varios destinos turísticos de todo el mundo.",
+      "long_desc": "¡Bienvenido al extraordinario RIU Hotel! Situado en un destino de ensueño, este lujoso resort te ofrece una experiencia de vacaciones inigualable. Con una ubicación privilegiada y unas instalaciones de primer nivel, el RIU Hotel es el lugar perfecto para disfrutar de días llenos de diversión, relajación y lujo. Desde playas paradisíacas hasta una variedad de opciones gastronómicas y actividades emocionantes, este paquete de viajes te garantiza una estadía inolvidable.",
+      "activities": ["Diversión en la playa: Sumérgete en las aguas cristalinas y disfruta del sol en las hermosas playas que rodean el resort. Relájate en una tumbona mientras saboreas una refrescante bebida tropical o participa en emocionantes actividades acuáticas como el snorkel, el paddleboarding o el parasailing.","Experiencias culinarias: Deléitate con una amplia selección de opciones gastronómicas en los restaurantes de clase mundial del hotel. Desde cocina internacional hasta platos locales auténticos, cada comida será una deliciosa experiencia para tu paladar.","Entretenimiento nocturno: Disfruta de animadas noches en el hotel con espectáculos en vivo, música en vivo y fiestas temáticas. Baila bajo las estrellas y crea recuerdos inolvidables mientras te sumerges en la vibrante vida nocturna del resort.","Relax en el spa: Permítete un tiempo de relajación en el spa del hotel. Disfruta de tratamientos de bienestar, masajes rejuvenecedores y circuitos de hidroterapia que te ayudarán a renovar tu cuerpo y tu mente.","Actividades deportivas: Mantente activo durante tus vacaciones con una amplia gama de actividades deportivas disponibles en el resort. Ya sea que prefieras el tenis, el golf, el voleibol de playa o el fitness, encontrarás opciones para satisfacer tu gusto por el deporte."],
+      "benefits": ["Alojamiento de lujo en el RIU Hotel, con habitaciones elegantes y comodidades modernas para garantizar tu confort.","Régimen de alimentación completo que incluye desayuno, almuerzo, cena y opciones de snacks durante el día. Deléitate con una amplia variedad de platos para satisfacer todos los gustos.","Acceso a las instalaciones y servicios del resort, como piscinas, gimnasio, spa, club infantil y áreas de entretenimiento.","Servicio de atención al cliente las 24 horas para garantizar que todas tus necesidades sean atendidas durante tu estancia en el hotel.","Ubicación privilegiada cerca de atracciones turísticas, playas de ensueño y actividades emocionantes para que puedas explorar y disfrutar al máximo tu destino."],
+      "price": "1199.99 U$D por persona",
+      "img": "/TurismoPOP/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Riviera Maya",
+      "desc": "La Riviera Maya​ es una zona turística de México, situada en la costa del mar Caribe, en el estado de Quintana Roo.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/caribe/riviera-maya_1.jpg"
+    }
+  ],
+  "brasil": [
+    {
+      "id": 7,
+      "name": "Angra dos Reis",
+      "desc": "Angra dos Reis es un municipio de Río de Janeiro con 365 islas, playas y biodiversidad en la Isla Grande, donde se encuentra Vila do Abraão y la Iglesia de San Sebastián, además de ruinas de la prisión Cândido Mendes.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/brasil/ANGRA-DOS-REIS-con-Aerolineas-Argentinas-2021_14.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Buzios",
+      "desc": "Armação dos Búzios es un destino turístico de lujo con numerosas playas, incluyendo Ferradura y Geribá, y la Rua das Pedras, que ofrece restaurantes y vida nocturna. Está ubicado en una península al este de Río de Janeiro.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Costa Do Sauipe",
+      "desc": "Costa do Sauípe es un complejo turístico en Bahía, Brasil, con alojamiento, restaurantes, tiendas y actividades de ocio y entretenimiento para sus huéspedes, además de un centro de convenciones y eventos.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/brasil/Costa-Do-Sauipe--Semana-Santa-2021---Cupos-Latam_77.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Porto de Galinhas",
+      "desc": "Puerto de Gallinas es un pueblo y playa de la municipalidad de Ipojuca en el estado de Pernambuco, Brasil.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/brasil/porto-de-galinhas_1.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Salvador de Bahía",
+      "desc": "Salvador es la capital de Bahía, Brasil, conocida por su arquitectura colonial portuguesa, cultura afrobrasileña y costa tropical. Pelourinho es el centro histórico con calles de adoquines, edificios coloridos e iglesias barrocas como la de San Francisco, con trabajos en madera bañados en oro.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_26.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ibis Salvador Aeroporto Hangar",
+      "desc": "Ibis Salvador Aeroporto Hangar es un hotel económico ubicado cerca del aeropuerto de Salvador, en Brasil. Ofrece alojamiento básico con habitaciones sencillas y funcionales, además de servicios como desayuno, Wi-Fi gratuito, estacionamiento y transporte al aeropuerto.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
+    }
+  ],
+  "New York": [
+    {
+      "id": 13,
+      "name": "City Tour",
+      "desc": "Una de las primeras propuestas que se deben realizar en la ciudad es el traicional city tour por los lugares más emblemanticos ",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/new_york/ny002.png"
+    },
+    {
+      "id": 14,
+      "name": "City Tour nocturno",
+      "desc": "Otra de las propuestas innovadoras es la realización del tour nocturno para ver la ciudad de noche con su luces y actividades que nunca terminan",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/new_york/ny001.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Paseo de fotografia en la gran Manzana",
+      "desc": "Salida grupal para poder sacar las mejores fotografias de la ciudad.",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/new_york/ny003.jpg"
+    },
+    {
+      "id": 16,
+      "name": "TimesQuare",
+      "desc": "recorrido por uno de los puntos estrategicos de la ciudad ",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/new_york/ny004.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Visita a la estatua de la libertad",
+      "desc": "Visita guiada a la estatua de la libertad con guia incluido",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/new_york/ny005.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Paseo nocturno",
+      "desc": "paso nocturno fuera de la ciudad en barco ",
+      "long_desc": "",
+      "activities": [],
+      "benefits": [],
+      "price": "",
+      "img": "/TurismoPOP/assets/img/packages/new_york/ny006.webp"
+    }
+  ]
 }
