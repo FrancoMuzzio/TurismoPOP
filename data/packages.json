@@ -65,5 +65,37 @@
                 "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
             }
 
+        ],"New York":
+        [
+            {
+                "name": "city tour",
+                "desc": "Una de las primeras propuestas que se deben realizar en la ciudad es el traicional city tour por los lugares más emblemanticos ",
+                "img": "/TurismoPOP/assets/img/packages/new_york/ny002.png"
+            },
+            {
+                "name": "city tour nocturno",
+                "desc": "Otra de las propuestas innovadoras es la realización del tour nocturno para ver la ciudad de noche con su luces y actividades que nunca terminan",
+                "img": "/TurismoPOP/assets/img/packages/new_york/ny001.png"
+            },
+            {
+                "name": "Paseo de fotografia en la gran Manzana",
+                "desc": "Salida grupal para poder sacar las mejores fotografias de la ciudad.",
+                "img": "/TurismoPOP/assets/img/packages/new_york/ny003.png"
+            },
+            {
+                "name": "TimesQuare",
+                "desc": "recorrido por uno de los puntos estrategicos de la ciudad ",
+                "img": "/TurismoPOP/assets/img/packages/new_york/ny004.png"
+            },
+            {
+                "name": "Visita a la estatua de la libertad",
+                "desc": "Visita guiada a la estatua de la libertad con guia incluido",
+                "img": "/TurismoPOP/assets/img/packages/new_york/ny005.png"
+            },
+            {
+                "name": "Paseo nocturno",
+                "desc": "paso nocturno fuera de la ciudad en barco ",
+                "img": "/TurismoPOP/assets/img/packages/new_york/ny006.png"
+            }
         ]
 }
