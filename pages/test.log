@@ -1,27 +1,29 @@
 Array
 (
-    [id] => 5
-    [name] => RIU Hotel
-    [desc] => RIU Hotels es una cadena hotelera española con presencia en varios destinos turísticos de todo el mundo.
-    [long_desc] => ¡Bienvenido al extraordinario RIU Hotel! Situado en un destino de ensueño, este lujoso resort te ofrece una experiencia de vacaciones inigualable. Con una ubicación privilegiada y unas instalaciones de primer nivel, el RIU Hotel es el lugar perfecto para disfrutar de días llenos de diversión, relajación y lujo. Desde playas paradisíacas hasta una variedad de opciones gastronómicas y actividades emocionantes, este paquete de viajes te garantiza una estadía inolvidable.
+    [id] => 8
+    [name] => Buzios
+    [desc] => Armação dos Búzios es un destino turístico de lujo con numerosas playas, incluyendo Ferradura y Geribá, y la Rua das Pedras, que ofrece restaurantes y vida nocturna. Está ubicado en una península al este de Río de Janeiro.
+    [long_desc] => Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.
     [activities] => Array
         (
-            [0] => Diversión en la playa: Sumérgete en las aguas cristalinas y disfruta del sol en las hermosas playas que rodean el resort. Relájate en una tumbona mientras saboreas una refrescante bebida tropical o participa en emocionantes actividades acuáticas como el snorkel, el paddleboarding o el parasailing.
-            [1] => Experiencias culinarias: Deléitate con una amplia selección de opciones gastronómicas en los restaurantes de clase mundial del hotel. Desde cocina internacional hasta platos locales auténticos, cada comida será una deliciosa experiencia para tu paladar.
-            [2] => Entretenimiento nocturno: Disfruta de animadas noches en el hotel con espectáculos en vivo, música en vivo y fiestas temáticas. Baila bajo las estrellas y crea recuerdos inolvidables mientras te sumerges en la vibrante vida nocturna del resort.
-            [3] => Relax en el spa: Permítete un tiempo de relajación en el spa del hotel. Disfruta de tratamientos de bienestar, masajes rejuvenecedores y circuitos de hidroterapia que te ayudarán a renovar tu cuerpo y tu mente.
-            [4] => Actividades deportivas: Mantente activo durante tus vacaciones con una amplia gama de actividades deportivas disponibles en el resort. Ya sea que prefieras el tenis, el golf, el voleibol de playa o el fitness, encontrarás opciones para satisfacer tu gusto por el deporte.
+            [0] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [1] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [2] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [3] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [4] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [5] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
         )
 
     [benefits] => Array
         (
-            [0] => Alojamiento de lujo en el RIU Hotel, con habitaciones elegantes y comodidades modernas para garantizar tu confort.
-            [1] => Régimen de alimentación completo que incluye desayuno, almuerzo, cena y opciones de snacks durante el día. Deléitate con una amplia variedad de platos para satisfacer todos los gustos.
-            [2] => Acceso a las instalaciones y servicios del resort, como piscinas, gimnasio, spa, club infantil y áreas de entretenimiento.
-            [3] => Servicio de atención al cliente las 24 horas para garantizar que todas tus necesidades sean atendidas durante tu estancia en el hotel.
-            [4] => Ubicación privilegiada cerca de atracciones turísticas, playas de ensueño y actividades emocionantes para que puedas explorar y disfrutar al máximo tu destino.
+            [0] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [1] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [2] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [3] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [4] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            [5] => lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
         )
 
-    [price] => 1199.99 U$D por persona
-    [img] => /TurismoPOP/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg
+    [price] => 999.99
+    [img] => /TurismoPOP/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg
 )

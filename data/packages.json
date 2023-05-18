@@ -19,7 +19,7 @@
         "Servicio de transporte desde y hacia el aeropuerto para mayor comodidad.",
         "Asistencia de personal experto para garantizar que tu estadía sea placentera y que todas tus necesidades sean atendidas."
       ],
-      "price": "999.99 U$D por persona",
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/caribe/bayahibe_1.jpg"
     },
     {
@@ -41,27 +41,55 @@
         "Servicio de transporte desde y hacia el aeropuerto para mayor comodidad.",
         "Personal atento y amable que estará a tu disposición para asegurarse de que disfrutes al máximo de tu estancia."
       ],
-      "price": "799.99 U$D por persona",
+      "price": 799.99,
       "img": "/TurismoPOP/assets/img/packages/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg"
     },
     {
       "id": 3,
       "name": "Ocean Coral & Turquesa",
       "desc": "Ocean Coral & Turquesa es un resort en la Riviera Maya, México, con servicios como piscinas, restaurantes, spa y actividades de entretenimiento para sus huéspedes.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/caribe/htl_coral_y_turquesa-400x240-crop.jpg"
     },
     {
       "id": 4,
       "name": "Iberostar",
       "desc": "Iberostar Dominicana Punta Cana es un resort todo incluido en Punta Cana, República Dominicana, con una variedad de instalaciones y servicios, como piscinas, restaurantes, spa y entretenimiento.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/caribe/iberostarhd-pool-400x240-crop.jpg"
     },
     {
@@ -83,17 +111,31 @@
         "Servicio de atención al cliente las 24 horas para garantizar que todas tus necesidades sean atendidas durante tu estancia en el hotel.",
         "Ubicación privilegiada cerca de atracciones turísticas, playas de ensueño y actividades emocionantes para que puedas explorar y disfrutar al máximo tu destino."
       ],
-      "price": "1199.99 U$D por persona",
+      "price": 1199.99,
       "img": "/TurismoPOP/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg"
     },
     {
       "id": 6,
       "name": "Riviera Maya",
       "desc": "La Riviera Maya​ es una zona turística de México, situada en la costa del mar Caribe, en el estado de Quintana Roo.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/caribe/riviera-maya_1.jpg"
     }
   ],
@@ -102,60 +144,144 @@
       "id": 7,
       "name": "Angra dos Reis",
       "desc": "Angra dos Reis es un municipio de Río de Janeiro con 365 islas, playas y biodiversidad en la Isla Grande, donde se encuentra Vila do Abraão y la Iglesia de San Sebastián, además de ruinas de la prisión Cândido Mendes.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/brasil/ANGRA-DOS-REIS-con-Aerolineas-Argentinas-2021_14.jpg"
     },
     {
       "id": 8,
       "name": "Buzios",
       "desc": "Armação dos Búzios es un destino turístico de lujo con numerosas playas, incluyendo Ferradura y Geribá, y la Rua das Pedras, que ofrece restaurantes y vida nocturna. Está ubicado en una península al este de Río de Janeiro.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg"
     },
     {
       "id": 9,
       "name": "Costa Do Sauipe",
       "desc": "Costa do Sauípe es un complejo turístico en Bahía, Brasil, con alojamiento, restaurantes, tiendas y actividades de ocio y entretenimiento para sus huéspedes, además de un centro de convenciones y eventos.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/brasil/Costa-Do-Sauipe--Semana-Santa-2021---Cupos-Latam_77.jpg"
     },
     {
       "id": 10,
       "name": "Porto de Galinhas",
       "desc": "Puerto de Gallinas es un pueblo y playa de la municipalidad de Ipojuca en el estado de Pernambuco, Brasil.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/brasil/porto-de-galinhas_1.jpg"
     },
     {
       "id": 11,
       "name": "Salvador de Bahía",
       "desc": "Salvador es la capital de Bahía, Brasil, conocida por su arquitectura colonial portuguesa, cultura afrobrasileña y costa tropical. Pelourinho es el centro histórico con calles de adoquines, edificios coloridos e iglesias barrocas como la de San Francisco, con trabajos en madera bañados en oro.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_26.jpg"
     },
     {
       "id": 12,
       "name": "Ibis Salvador Aeroporto Hangar",
       "desc": "Ibis Salvador Aeroporto Hangar es un hotel económico ubicado cerca del aeropuerto de Salvador, en Brasil. Ofrece alojamiento básico con habitaciones sencillas y funcionales, además de servicios como desayuno, Wi-Fi gratuito, estacionamiento y transporte al aeropuerto.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
     }
   ],
@@ -164,60 +290,144 @@
       "id": 13,
       "name": "City Tour",
       "desc": "Una de las primeras propuestas que se deben realizar en la ciudad es el traicional city tour por los lugares más emblemanticos ",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/new_york/ny002.png"
     },
     {
       "id": 14,
       "name": "City Tour nocturno",
       "desc": "Otra de las propuestas innovadoras es la realización del tour nocturno para ver la ciudad de noche con su luces y actividades que nunca terminan",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/new_york/ny001.jpg"
     },
     {
       "id": 15,
       "name": "Paseo de fotografia en la gran Manzana",
       "desc": "Salida grupal para poder sacar las mejores fotografias de la ciudad.",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/new_york/ny003.jpg"
     },
     {
       "id": 16,
       "name": "TimesQuare",
       "desc": "recorrido por uno de los puntos estrategicos de la ciudad ",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/new_york/ny004.jpg"
     },
     {
       "id": 17,
       "name": "Visita a la estatua de la libertad",
       "desc": "Visita guiada a la estatua de la libertad con guia incluido",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/new_york/ny005.jpeg"
     },
     {
       "id": 18,
       "name": "Paseo nocturno",
       "desc": "paso nocturno fuera de la ciudad en barco ",
-      "long_desc": "",
-      "activities": [],
-      "benefits": [],
-      "price": "",
+      "long_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id tempus neque. Integer faucibus, massa sed euismod placerat, justo enim dignissim sapien, ut eleifend nulla ex non metus. Nullam vel laoreet magna. Nullam vitae lacus enim. Duis non aliquam tortor, eget ultrices odio. Morbi efficitur magna sed purus luctus lacinia. Nulla turpis nunc, feugiat vel finibus sed, ultrices in diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce bibendum ac metus id pulvinar. Cras et velit purus. Vestibulum commodo, metus rhoncus tempor consectetur, elit risus interdum elit, id suscipit risus lectus et mauris. Aliquam semper turpis in tellus mollis feugiat maximus eu nulla. Quisque vulputate elit nec massa commodo, sed lacinia lorem maximus. Fusce congue leo non felis porta, vel egestas justo aliquet. Cras eu euismod quam. Quisque et lobortis mauris. Integer volutpat posuere libero, at placerat nibh. Fusce at nulla a odio sollicitudin euismod vel at nisi. Nam laoreet eu augue vitae fermentum. In sodales massa arcu, id consectetur eros sollicitudin non. Mauris luctus libero facilisis, laoreet justo at, dignissim diam. Morbi efficitur hendrerit laoreet. Vivamus auctor tincidunt eros sed volutpat. Suspendisse imperdiet mauris ex, id sagittis orci efficitur eget. Suspendisse nec nibh nec sem pretium bibendum nec a tellus. Maecenas at felis tortor. Mauris pulvinar, est a commodo commodo, orci magna lobortis nibh, vitae fringilla nisi arcu ac eros. Vestibulum eget dui sit amet dui dignissim consectetur. Suspendisse molestie leo eu accumsan convallis. Aenean sodales nulla tellus, in dictum sem dapibus id. Nullam scelerisque suscipit elit eu euismod. Nam feugiat condimentum mollis. Suspendisse tristique tincidunt mi id posuere. Maecenas diam sem, sagittis consequat nulla in, porta vulputate mauris. Integer gravida est ac neque aliquam molestie. Phasellus congue dui ac leo suscipit, eu molestie magna porta. Etiam venenatis diam nec augue porttitor, vitae eleifend sem tincidunt.",
+      "activities": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "benefits": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      ],
+      "price": 999.99,
       "img": "/TurismoPOP/assets/img/packages/new_york/ny006.webp"
     }
   ]

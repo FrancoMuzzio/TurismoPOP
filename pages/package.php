@@ -71,7 +71,7 @@
       <div class="card">
         <div class="card-body">
           <h4 class="card-title">Precio:</h4>
-          <h3 class="card-text fw-bold text-success"><?php echo $package['price'] ?></h3>
+          <h3 class="card-text fw-bold text-success"><?php echo $package['price'] ?> U$D por persona</h3>
           <div class="row justify-content-end">
             <div class="col-auto">
               <a type="button" class="btn btn-outline-success fw-bold" href="/TurismoPOP/pages/buy.php?id=<?php $package['id'] ?>">COMPRAR</a>
