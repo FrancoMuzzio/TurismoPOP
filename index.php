@@ -1,8 +1,11 @@
 <?php
+  // IMPORTACIONES
   $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/banners.json');
   $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/packages.json');
   $banners = json_decode($json_banners, true);
   $packages = json_decode($json_packages, true);
+  // CONFIGURACIONES
+  $carrousel_limit = 2;
 ?>
 <!DOCTYPE html>
 <html lang="es" class="h-100">
@@ -108,7 +111,11 @@
       
       <!-- Carrouseles de paquetes -->
       <?php
+      $package_counter = 0;
       foreach ($packages as $key => $value){
+        if ($package_counter >= $carrousel_limit) {
+          break;
+        } 
         echo '<!-- Carrousel Paquetes '.$key.'-->';
         echo '<div class="container mt-3">';
         echo '<h4>'.ucfirst($key).'</h4>';
@@ -159,6 +166,7 @@
         echo '</button>';
         echo '</div>';
         echo '</div>';
+        $package_counter++;
       }
       ?>
       <div class="container mt-3">
