@@ -11,7 +11,6 @@
         }
     }
   }
-  file_put_contents('test.log', print_r($package, true));
   if ($package==null){
     header('Location: /TurismoPOP/pages/404.php');
     exit();
@@ -74,11 +73,11 @@
           <h3 class="card-text fw-bold text-success"><?php echo $package['price'] ?> U$D por persona</h3>
           <div class="row justify-content-end">
             <div class="col-auto">
-              <form class="d-flex align-items-center justify-content-end">
+              <form class="d-flex align-items-center justify-content-end" action="/TurismoPOP/pages/payment_method.php" method="post">
                 <div class="form-group mb-0 col-auto">
                   <div class="input-group">
                     <input name="personas" type="number" class="form-control" id="personas" min=1 value=1 placeholder="Numero de personas">
-                    <input type="hidden" name="package">
+                    <input type="hidden" name="package_id" value="<?php echo $package['id'] ?>">
                     <button type="submit" class="btn btn-outline-success fw-bold">COMPRAR</button>
                   </div>
                 </div>
