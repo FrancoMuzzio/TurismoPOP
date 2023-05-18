@@ -4,7 +4,7 @@
   $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/packages.json');
   $banners = json_decode($json_banners, true);
   $packages = json_decode($json_packages, true);
-  // CONFIGURACIONES
+  // CONFIGURACION
   $carrousel_limit = 2;
 ?>
 <!DOCTYPE html>
@@ -145,8 +145,8 @@
             echo '<div class="carousel-item">';
             echo '<div class="card-group">';
           }
-          echo '<a class="card text-decoration-none">
-                  <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
+          echo '<a href="/TurismoPOP/pages/paquete.php?id='.$v['id'].'" class="card text-decoration-none">
+                <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
                   <div class="card-body">
                       <h5 class="card-title">'.$v['name'].'</h5>
                       <p class="card-text">'.$v['desc'].'</p>
