@@ -220,7 +220,7 @@
         <div class="row">
           <div class="col text-center">
             <h2>¿Todavía no te registraste?</h2>
-            <button class="btn btn-info fw-bold text-white" type="button">Registrate Ahora</button>
+            <a class="btn btn-info fw-bold text-white" type="button" href="/TurismoPOP/pages/auth/register.php">Registrate Ahora</a>
           </div>
         </div>
       </div>
@@ -234,6 +234,6 @@
         </div>
       </div>
 
-    <?php include "./pages/components/footer.php"; ?>
+    <?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
 
 
