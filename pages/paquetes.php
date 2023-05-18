@@ -57,13 +57,13 @@
         echo '<div class="carousel-item">';
         echo '<div class="card-group">';
       }
-      echo '<div class="card">
+      echo '<a href="/TurismoPOP/pages/paquete.php" class="card text-decoration-none">
               <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
               <div class="card-body">
                   <h5 class="card-title">'.$v['name'].'</h5>
                   <p class="card-text">'.$v['desc'].'</p>
               </div>
-            </div>';
+            </a>';
     }
     echo '</div>';
     echo '</div>';
