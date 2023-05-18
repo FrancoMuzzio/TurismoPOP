@@ -4,32 +4,32 @@
             {
                 "name": "Bayahibe",
                 "desc": "Bayahíbe es una ciudad turística en la costa del Caribe de República Dominicana. Es conocida por sus playas de arena y sus sitios para el buceo.",
-                "img": "/TurismoPOP/assets/img/banners/caribe/bayahibe_1.jpg"
+                "img": "/TurismoPOP/assets/img/packages/caribe/bayahibe_1.jpg"
             },
             {
                 "name": "Catalonia Gran Dominicus",
                 "desc": "Catalonia Gran Dominicus es un resort en Bayahibe, República Dominicana, con instalaciones como piscinas, restaurantes, bares, deportes acuáticos y actividades de entretenimiento.",
-                "img": "/TurismoPOP/assets/img/banners/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg"
+                "img": "/TurismoPOP/assets/img/packages/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg"
             },
             {
                 "name": "Ocean Coral & Turquesa",
                 "desc": "Ocean Coral & Turquesa es un resort en la Riviera Maya, México, con servicios como piscinas, restaurantes, spa y actividades de entretenimiento para sus huéspedes.",
-                "img": "/TurismoPOP/assets/img/banners/caribe/htl_coral_y_turquesa-400x240-crop.jpg"
+                "img": "/TurismoPOP/assets/img/packages/caribe/htl_coral_y_turquesa-400x240-crop.jpg"
             },
             {
                 "name": "Iberostar",
                 "desc": "Iberostar Dominicana Punta Cana es un resort todo incluido en Punta Cana, República Dominicana, con una variedad de instalaciones y servicios, como piscinas, restaurantes, spa y entretenimiento.",
-                "img": "/TurismoPOP/assets/img/banners/caribe/iberostarhd-pool-400x240-crop.jpg"
+                "img": "/TurismoPOP/assets/img/packages/caribe/iberostarhd-pool-400x240-crop.jpg"
             },
             {
                 "name": "RIU Hotel",
                 "desc": "RIU Hotels es una cadena hotelera española con presencia en varios destinos turísticos de todo el mundo.",
-                "img": "/TurismoPOP/assets/img/banners/caribe/ib_csp2-400x240-crop.jpg"
+                "img": "/TurismoPOP/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg"
             },
             {
                 "name": "Riviera Maya",
                 "desc": "La Riviera Maya​ es una zona turística de México, situada en la costa del mar Caribe, en el estado de Quintana Roo.",
-                "img": "/TurismoPOP/assets/img/banners/caribe/riviera-maya_1.jpg"
+                "img": "/TurismoPOP/assets/img/packages/caribe/riviera-maya_1.jpg"
             }
         ],
     "brasil":
@@ -37,32 +37,32 @@
             {
                 "name": "Angra dos Reis",
                 "desc": "Angra dos Reis es un municipio de Río de Janeiro con 365 islas, playas y biodiversidad en la Isla Grande, donde se encuentra Vila do Abraão y la Iglesia de San Sebastián, además de ruinas de la prisión Cândido Mendes.",
-                "img": "/TurismoPOP/assets/img/banners/brasil/ANGRA-DOS-REIS-con-Aerolineas-Argentinas-2021_14.jpg"
+                "img": "/TurismoPOP/assets/img/packages/brasil/ANGRA-DOS-REIS-con-Aerolineas-Argentinas-2021_14.jpg"
             },
             {
                 "name": "Buzios",
                 "desc": "Armação dos Búzios es un destino turístico de lujo con numerosas playas, incluyendo Ferradura y Geribá, y la Rua das Pedras, que ofrece restaurantes y vida nocturna. Está ubicado en una península al este de Río de Janeiro.",
-                "img": "/TurismoPOP/assets/img/banners/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg"
+                "img": "/TurismoPOP/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg"
             },
             {
                 "name": "Costa Do Sauipe",
                 "desc": "Costa do Sauípe es un complejo turístico en Bahía, Brasil, con alojamiento, restaurantes, tiendas y actividades de ocio y entretenimiento para sus huéspedes, además de un centro de convenciones y eventos.",
-                "img": "/TurismoPOP/assets/img/banners/brasil/Costa-Do-Sauipe--Semana-Santa-2021---Cupos-Latam_77.jpg"
+                "img": "/TurismoPOP/assets/img/packages/brasil/Costa-Do-Sauipe--Semana-Santa-2021---Cupos-Latam_77.jpg"
             },
             {
                 "name": "Porto de Galinhas",
                 "desc": "Puerto de Gallinas es un pueblo y playa de la municipalidad de Ipojuca en el estado de Pernambuco, Brasil.",
-                "img": "/TurismoPOP/assets/img/banners/brasil/porto-de-galinhas_1.jpg"
+                "img": "/TurismoPOP/assets/img/packages/brasil/porto-de-galinhas_1.jpg"
             },
             {
                 "name": "Salvador de Bahía",
                 "desc": "Salvador es la capital de Bahía, Brasil, conocida por su arquitectura colonial portuguesa, cultura afrobrasileña y costa tropical. Pelourinho es el centro histórico con calles de adoquines, edificios coloridos e iglesias barrocas como la de San Francisco, con trabajos en madera bañados en oro.",
-                "img": "/TurismoPOP/assets/img/banners/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_26.jpg"
+                "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_26.jpg"
             },
             {
                 "name": "Ibis Salvador Aeroporto Hangar",
                 "desc": "Ibis Salvador Aeroporto Hangar es un hotel económico ubicado cerca del aeropuerto de Salvador, en Brasil. Ofrece alojamiento básico con habitaciones sencillas y funcionales, además de servicios como desayuno, Wi-Fi gratuito, estacionamiento y transporte al aeropuerto.",
-                "img": "/TurismoPOP/assets/img/banners/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
+                "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
             }
 
         ]

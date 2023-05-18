@@ -1,6 +1,6 @@
 <?php
-  $json_banners = file_get_contents('data/banners.json');
-  $json_packages = file_get_contents('data/packages.json');
+  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/banners.json');
+  $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/packages.json');
   $banners = json_decode($json_banners, true);
   $packages = json_decode($json_packages, true);
 ?>
@@ -111,6 +111,9 @@
       foreach ($packages as $key => $value){
         echo '<!-- Carrousel Paquetes '.$key.'-->';
         echo '<div class="container mt-3">';
+        echo '<h4>'.ucfirst($key).'</h4>';
+        echo '</div>';
+        echo '<div class="container mt-3">';
         echo '<div id="carouselPaquetes'.$key.'" class="carousel carousel-dark slide" data-bs-ride="false">';
         echo '<div class="carousel-indicators">';
         $counter = 0;
@@ -158,7 +161,13 @@
         echo '</div>';
       }
       ?>
-      
+      <div class="container mt-3">
+        <div class="row justify-content-end">
+          <div class="col-auto">
+            <a type="button" class="btn btn-outline-info" href="/TurismoPOP/pages/paquetes.php">Más paquetes</a>
+          </div>
+        </div>
+      </div>
       <!-- carrousel banners about us -->
       <div class="container mt-3">
         <div id="carouselAboutUs" class="carousel slide">
