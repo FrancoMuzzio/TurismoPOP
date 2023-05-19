@@ -12,8 +12,8 @@
   <title>TurismoPOP - Ingresar</title>
   <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
-<?php include "./components/imports.php"; ?>
-<?php include "./components/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   $json_users = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/users.json');
@@ -41,6 +41,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   </div>
 </div>
 
-<?php include "./components/footer.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
 
 

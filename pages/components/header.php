@@ -13,14 +13,14 @@
 <?php
 if (isset($_SESSION['loggedUser'])) {
   echo '<li class="nav-item">';
-  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/logout.php">Cerrar sesión</a>';
+  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/auth/logout.php">Cerrar sesión</a>';
   echo '</li>';
 }else{
   echo '<li class="nav-item">';
-  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/login.php">Iniciar sesión</a>';
+  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/auth/login.php">Iniciar sesión</a>';
   echo '</li>';
   echo '<li class="nav-item">';
-  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/register.php">Registrarse</a>';
+  echo '<a class="nav-link text-white" href="/TurismoPOP/pages/auth/register.php">Registrarse</a>';
   echo '</li>';
 }
 ?>

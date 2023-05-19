@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP - Registrarse</title>
-  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="$_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
-<?php include "./components/imports.php"; ?>
-<?php include "./components/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   $json_users = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/users.json');
@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     'password' => $_POST['password'],
   ];
   file_put_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/users.json', json_encode($users));
-  header('Location: /TurismoPOP/pages/login.php');
+  header('Location: /TurismoPOP/pages/auth/login.php');
   exit();
 }
 ?>
@@ -60,6 +60,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
 
-<?php include "./components/footer.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
 
 

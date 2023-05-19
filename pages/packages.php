@@ -12,8 +12,8 @@
   <title>TurismoPOP - Paquetes</title>
   <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
-<?php include "./components/imports.php"; ?>
-<?php include "./components/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
 <!-- Titulo -->
 <?php
   $randomImage = $banners['ads'][array_rand($banners['ads'])]['img'];
