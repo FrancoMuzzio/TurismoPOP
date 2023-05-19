@@ -22,7 +22,7 @@
 <div class="container mt-3" style="background-image: url('<?php echo $randomImage; ?>'); background-size: cover; min-height: 200px;">
   <div class="row align-items-center justify-content-center" style="min-height: 200px;">
       <div class="col-12 text-center">
-        <h1 class="text-black-stroke text-white font-weight-bold">Forma de pago</h1>
+        <h1 class="text-black-stroke text-white font-weight-bold">Pago aceptado</h1>
       </div>
   </div>
 </div>
@@ -32,6 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   $package = null;
   $cantidadPersonas = $_POST['personas'];
   $paymentMethod = $_POST['payment_method'];
+  $numeroTarjeta = $_POST['numeroTarjeta'];
   foreach ($packages as $place) {
     foreach ($place as $aux_package) {
         if ($aux_package['id'] == $_POST['package_id']) {
@@ -56,6 +57,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <p class="card-text"><b>Personas:</b> <?php echo $cantidadPersonas; ?></p>
         <p class="card-text"><b>Precio final:</b> <?php echo $package['price']*$cantidadPersonas; ?></p>
         <p class="card-text"><b>Metodo de pago:</b> <?php echo $paymentMethod; ?></p>
+<?php
+if ($paymentMethod == 'Tarjeta de crédito') {
+  echo '<p class="card-text"><b>Tarjeta:</b> '.substr_replace($numeroTarjeta, str_repeat('X', strlen($numeroTarjeta) - 4), 0, strlen($numeroTarjeta) - 4).'</p>';
+}
+?>
+        <b><span class="text-success display-4">¡El producto ya es tuyo!</span></b>
       </div>
     </div>
   </div>
