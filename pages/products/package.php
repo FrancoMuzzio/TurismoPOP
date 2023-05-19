@@ -12,7 +12,7 @@
     }
   }
   if ($package==null){
-    header('Location: /TurismoPOP/pages/404.php');
+    header('Location: /TurismoPOP/pages/error/404.php');
     exit();
   }
 ?>

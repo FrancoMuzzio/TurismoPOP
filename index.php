@@ -145,7 +145,7 @@
             echo '<div class="carousel-item">';
             echo '<div class="card-group">';
           }
-          echo '<a href="/TurismoPOP/pages/package.php?id='.$v['id'].'" class="card text-decoration-none">
+          echo '<a href="/TurismoPOP/pages/products/package.php?id='.$v['id'].'" class="card text-decoration-none">
                 <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
                   <div class="card-body">
                       <h5 class="card-title">'.$v['name'].'</h5>
@@ -172,7 +172,7 @@
       <div class="container mt-3">
         <div class="row justify-content-end">
           <div class="col-auto">
-            <a type="button" class="btn btn-outline-info" href="/TurismoPOP/pages/packages.php">Más paquetes</a>
+            <a type="button" class="btn btn-outline-info" href="/TurismoPOP/pages/products/packages.php">Más paquetes</a>
           </div>
         </div>
       </div>

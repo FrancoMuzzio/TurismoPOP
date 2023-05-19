@@ -57,7 +57,7 @@
         echo '<div class="carousel-item">';
         echo '<div class="card-group">';
       }
-      echo '<a href="/TurismoPOP/pages/package.php?id='.$v['id'].'" class="card text-decoration-none">
+      echo '<a href="/TurismoPOP/pages/products/package.php?id='.$v['id'].'" class="card text-decoration-none">
               <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
               <div class="card-body">
                   <h5 class="card-title">'.$v['name'].'</h5>
@@ -79,6 +79,6 @@
     echo '</div>';
     echo '</div>';
   }
-  include "./components/footer.php"; ?>
+ include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
 
 
