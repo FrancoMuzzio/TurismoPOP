@@ -27,7 +27,6 @@
 </div>
 <?php 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-  // file_put_contents("test.log", print_r($_POST, true));
   $package = null;
   $cantidadPersonas = $_POST['personas'];
   foreach ($packages as $place) {
@@ -62,9 +61,21 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <div class="col-md-6">
       <h4>Elige un método de pago:</h4>
       <div class="d-grid gap-2 mt-3">
-        <a type="button" class="btn btn-info text-white fw-bold">Tarjeta de crédito/débito</a>
-        <a type="button" class="btn btn-info text-white fw-bold">Mercado Pago</a>
-        <a type="button" class="btn btn-info text-white fw-bold">PayPal</a>
+        <form action="/TurismoPOP/pages/payment/methods/cards.php" method="post">
+          <input type="hidden" name="personas" value="<?php echo $_POST['personas'] ?>">
+          <input type="hidden" name="package_id" value="<?php echo $_POST['package_id'] ?>">
+          <button type="submit" class="btn btn-info btn-block text-white fw-bold btn-lg w-100">Tarjeta de crédito/débito</button>
+        </form>
+        <form action="/TurismoPOP/pages/payment/methods/mercadopago.php" method="post">
+          <input type="hidden" name="personas" value="<?php echo $_POST['personas'] ?>">
+          <input type="hidden" name="package_id" value="<?php echo $_POST['package_id'] ?>">
+          <button type="submit" class="btn btn-info btn-block text-white fw-bold btn-lg w-100">Mercado Pago</button>
+        </form>
+        <form action="/TurismoPOP/pages/payment/methods/paypal.php" method="post">
+          <input type="hidden" name="personas" value="<?php echo $_POST['personas'] ?>">
+          <input type="hidden" name="package_id" value="<?php echo $_POST['package_id'] ?>">
+          <button type="submit" class="btn btn-info btn-block text-white fw-bold btn-lg w-100">PayPal</>
+        </form>
       </div>
     </div>
   </div>
