@@ -11,17 +11,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP - Forma de pago</title>
   <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
-  <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
+  <body class="d-flex flex-column h-100"  style="min-height: 100vh;">
 <?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
 <!-- Titulo -->
 <?php
   $randomImage = $banners['ads'][array_rand($banners['ads'])]['img'];
 ?>
-<div class="container mt-3" style="background-image: url('<?php echo $randomImage; ?>'); background-size: cover; min-height: 200px;">
+<div class="container mt-3" style="background-image: url('/assets/img/medios_de_pago.png'); background-size: cover; min-height: 200px;">
   <div class="row align-items-center justify-content-center" style="min-height: 200px;">
       <div class="col-12 text-center">
-        <h1 class="text-black-stroke text-white font-weight-bold">Forma de pago</h1>
+        <h1 class="text-black-stroke text-white font-weight-bold">Forma de pago00</h1>
       </div>
   </div>
 </div>
