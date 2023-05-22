@@ -3,7 +3,6 @@
   $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/packages.json');
   $banners = json_decode($json_banners, true);
   $packages = json_decode($json_packages, true);
-  file_put_contents("test.log", print_r($_POST, true));
 ?>
 <!DOCTYPE html>
 <html lang="es" class="h-100">
@@ -28,7 +27,6 @@
 </div>
 <?php 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-  // file_put_contents("test.log", print_r($_POST, true));
   $package = null;
   $cantidadPersonas = $_POST['personas'];
   $paymentMethod = $_POST['payment_method'];

@@ -33,24 +33,24 @@
       <input type="hidden" name="package_id" value="<?php echo $_POST['package_id'] ?>">
       <div class="form-group mt-2">
         <label for="tipoTarjeta">Tipo de Tarjeta</label>
-        <select name="payment_method" class="form-control" id="tipoTarjeta">
-          <option disabled selected>Elige un tipo de tarjeta</option>
+        <select name="payment_method" class="form-control" id="tipoTarjeta" required>
+          <option disabled hidden selected value="">Elige un tipo de tarjeta</option>
           <option>Tarjeta de crédito</option>
           <option>Tarjeta de débito</option>
         </select>
       </div>
       <div class="form-group mt-2">
         <label for="titular">Titular de Tarjeta</label>
-        <input type="text" class="form-control" id="titular" placeholder="Esteban Julio Ricardo Montoya de la Rosa Ramírez">
+        <input type="text" class="form-control" id="titular" placeholder="Esteban Julio Ricardo Montoya de la Rosa Ramírez" required>
       </div>
       <div class="form-group mt-2">
         <label for="numeroTarjeta">Número de Tarjeta</label>
-        <input name="numeroTarjeta" type="number" class="form-control" id="numeroTarjeta" minlength="13" maxlength="18" placeholder="XXXXXXXXXXXXX">
+        <input name="numeroTarjeta" type="number" class="form-control" id="numeroTarjeta" minlength="13" maxlength="18" placeholder="XXXXXXXXXXXXX" required>
       </div>
       <div class="form-group row mt-2">
                     <label class="col-md-12">Fecha de vencimiento</label>
                     <div class="col-md-1">
-                        <select class="form-control">
+                        <select class="form-control" required>
                             <option value="01">January</option>
                             <option value="02">February</option>
                             <option value="03">March</option>
@@ -79,7 +79,7 @@
                 </div>
       <div class="form-group mt-2">
         <label for="codigoSeguridad">Código de Seguridad</label>
-        <input type="number" class="form-control" id="codigoSeguridad" minlength="3" maxlength="4" placeholder="XXX">
+        <input type="number" class="form-control" id="codigoSeguridad" minlength="3" maxlength="4" placeholder="XXX" required>
       </div>
       <div class="form-check mt-2">
         <input type="checkbox" class="form-check-input" id="recordarTarjeta">

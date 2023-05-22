@@ -1,9 +1,0 @@
-Array
-(
-    [personas] => 23
-    [package_id] => 3
-    [payment_method] => Tarjeta de crédito
-    [numeroTarjeta] => 453565465465
-    [fechaVencimientoMes] => 01
-    [fechaVencimientoAno] => 2023
-)

@@ -71,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
           <input type="hidden" name="package_id" value="<?php echo $_POST['package_id'] ?>">
           <button type="submit" class="btn btn-info btn-block text-white fw-bold btn-lg w-100">Mercado Pago</button>
         </form>
-        <form action="/TurismoPOP/pages/payment/methods/paypal.php" method="post">
+        <form action="/TurismoPOP/pages/error/under_construction.php" method="post">
           <input type="hidden" name="personas" value="<?php echo $_POST['personas'] ?>">
           <input type="hidden" name="package_id" value="<?php echo $_POST['package_id'] ?>">
           <button type="submit" class="btn btn-info btn-block text-white fw-bold btn-lg w-100">PayPal</>
