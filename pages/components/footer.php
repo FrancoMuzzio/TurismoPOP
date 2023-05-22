@@ -5,7 +5,7 @@
       <footer class="footer">
       <div class="container text-secondary">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-6">
             <h2>Dónde encontrarnos</h2>
             <h5>Dirección</h5>
             <p>Tucuman 354 piso 10</p>
@@ -18,12 +18,17 @@
             <h5>E-mail</h5>
             <p>vacaciones@turismopop.com.ar</p>
           </div>
-        </div>
-        <div class="row text-muted">
-          <p>Turismo POP S.A. - Categoría: E.V.T. | Legajo 4402 | Disposición 500/87</p>
-          <p>Me arrepentí de mi compra. Para cancelarla ingrese aquí.</p>
-          <p>Defensa de las y los Consumidores. Para reclamos ingrese aquí.</p>
-          <p>Denuncia contra una agencia. Para reclamos ingrese aquí.</p>
+          <div class="col-6">
+            <div class="row">
+              <a href="/TurismoPOP/pages/quienes_somos.php">¿Quienes somos?</a>
+            </div>
+            <div class="row mt-3">
+              <p>Turismo POP S.A. - Categoría: E.V.T. | Legajo 4402 | Disposición 500/87</p>
+              <p>Me arrepentí de mi compra. Para cancelarla ingrese aquí.</p>
+              <p>Defensa de las y los Consumidores. Para reclamos ingrese aquí.</p>
+              <p>Denuncia contra una agencia. Para reclamos ingrese aquí.</p>
+            </div>
+          </div>
         </div>
       </div>
     </footer>

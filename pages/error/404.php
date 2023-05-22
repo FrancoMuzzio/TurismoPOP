@@ -14,21 +14,6 @@
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
 <?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
 <?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
-<?php
-if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-  $json_users = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/users.json');
-  $users = json_decode($json_users, true);
-  $username = $_POST['username'];
-  $password = $_POST['password'];
-  foreach ($users as $user) {
-    if ($user['username'] == $username) {
-      $_SESSION['loggedUser'] = $user;
-      header('Location: /TurismoPOP/index.php');
-      exit();
-    }
-  }
-}
-?>
 <!-- Titulo -->
 <?php
   $randomImage = $banners['ads'][array_rand($banners['ads'])]['img'];

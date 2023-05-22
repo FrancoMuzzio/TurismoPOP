@@ -36,16 +36,25 @@
     </div>
   </div>
 </div>
-<div class="row justify-content-center mt-2">
-  <div class="col-md-6">
-  <div class="text-center mt-2 mb-4">
-    <h4>Escaneá el QR</h4>
+<div class="row justify-content-center align-items-center mt-2">
+  <div class="col-4 mx-auto d-block">
+    <img src="/TurismoPOP/assets/img/payment_methods/logo-mercadopago.png" alt="Codigo QR" class="img-fluid w-75">
   </div>
-  <div class="text-center mt-2">
-      <img src="/TurismoPOP/assets/img/QR_code.png" alt="Codigo QR" class="img-fluid">
+  <div class="col-4">
+    <div class="text-center mt-2 mb-4">
+      <h1 class="text-center">Escaneá el QR</h1>
     </div>
   </div>
+  <div class="col-4 mx-auto d-block">
+    <img src="/TurismoPOP/assets/img/payment_methods/logo-mercadopago.png" alt="Codigo QR" class="img-fluid w-75">
+  </div>
 </div>
+<div class="row justify-content-center mt-2">
+  <div class="text-center mt-2">
+    <img src="/TurismoPOP/assets/img/payment_methods/QR_code.png" alt="Codigo QR" class="img-fluid w-25">
+  </div>
+</div>
+
 
 <?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
 
