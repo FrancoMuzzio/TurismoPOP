@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="es" class="h-100">
 <head>
@@ -20,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     'password' => $_POST['password'],
   ];
   file_put_contents($_SERVER['DOCUMENT_ROOT'].'/data/users.json', json_encode($users));
-  header('Location: /pages/auth/login.php');
+  echo '<script>window.location.href = "/pages/auth/login.php";</script>';
   exit();
 }
 ?>

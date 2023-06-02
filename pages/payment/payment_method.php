@@ -39,7 +39,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
   }
   if ($package==null){
-    header('Location: /pages/error/404.php');
+    echo '<script>window.location.href = "/pages/error/404.php";</script>';
+
     exit();
   }
 }

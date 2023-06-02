@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   foreach ($users as $user) {
     if ($user['username'] == $username) {
       $_SESSION['loggedUser'] = $user;
-      header('Location: /index.php');
+      echo '<script>window.location.href = "/index.php";</script>';
       exit();
     }
   }
