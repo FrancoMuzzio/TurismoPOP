@@ -1,5 +1,6 @@
 <?php
-  $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/packages.json');
+  session_start();
+  $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/packages.json');
   $packages = json_decode($json_packages, true);
 
   $package = null;
@@ -12,7 +13,7 @@
     }
   }
   if ($package==null){
-    header('Location: /TurismoPOP/pages/error/404.php');
+    header('Location: /pages/error/404.php');
     exit();
   }
 ?>
@@ -22,10 +23,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP - <?php echo $package['name']; ?></title>
-  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/imports.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/header.php"; ?>
 
 <!-- Titulo -->
 <div class="container mt-3 border" style="background-image: url('<?php echo $package['img']; ?>'); background-size: cover; min-height: 200px;">
@@ -73,7 +74,7 @@
           <h3 class="card-text fw-bold text-success"><?php echo $package['price'] ?> U$D por persona</h3>
           <div class="row justify-content-end">
             <div class="col-auto">
-              <form class="d-flex align-items-center justify-content-end" action="/TurismoPOP/pages/payment/payment_method.php" method="post">
+              <form class="d-flex align-items-center justify-content-end" action="/pages/payment/payment_method.php" method="post">
                 <div class="form-group mb-0 col-auto">
                   <div class="input-group">
                     <input name="personas" type="number" class="form-control" id="personas" min=1 value=1 placeholder="Numero de personas">
@@ -90,6 +91,6 @@
   </div>
 </div>
 
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/footer.php"; ?>
 
 

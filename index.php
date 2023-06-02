@@ -1,7 +1,8 @@
 <?php
+  session_start();
   // IMPORTACIONES
-  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/banners.json');
-  $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/packages.json');
+  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/banners.json');
+  $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/packages.json');
   $banners = json_decode($json_banners, true);
   $packages = json_decode($json_packages, true);
   // CONFIGURACION
@@ -13,7 +14,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP</title>
-  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
     <?php include "./pages/components/imports.php"; ?>
     <?php include "./pages/components/header.php"; ?>
@@ -145,7 +146,7 @@
             echo '<div class="carousel-item">';
             echo '<div class="card-group">';
           }
-          echo '<a href="/TurismoPOP/pages/products/package.php?id='.$v['id'].'" class="card text-decoration-none">
+          echo '<a href="/pages/products/package.php?id='.$v['id'].'" class="card text-decoration-none">
                 <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
                   <div class="card-body">
                       <h5 class="card-title">'.$v['name'].'</h5>
@@ -172,7 +173,7 @@
       <div class="container mt-3">
         <div class="row justify-content-end">
           <div class="col-auto">
-            <a type="button" class="btn btn-outline-info" href="/TurismoPOP/pages/products/packages.php">Más paquetes</a>
+            <a type="button" class="btn btn-outline-info" href="/pages/products/packages.php">Más paquetes</a>
           </div>
         </div>
       </div>
@@ -220,7 +221,7 @@
         <div class="row">
           <div class="col text-center">
             <h2>¿Todavía no te registraste?</h2>
-            <a class="btn btn-info fw-bold text-white" type="button" href="/TurismoPOP/pages/auth/register.php">Registrate Ahora</a>
+            <a class="btn btn-info fw-bold text-white" type="button" href="/pages/auth/register.php">Registrate Ahora</a>
           </div>
         </div>
       </div>
@@ -229,11 +230,11 @@
       <div class="container mt-3">
         <div class="row">
           <div class="col text-center">
-            <img src="assets\img\medios_de_pago.png" alt="Medios de pago: Transferencia bancaria, Tarjeta de credito, Ahora 12 y 18, Mercado pago" class="img-fluid border">
+            <img src="\assets\img\payment_methods\medios_de_pago.png" alt="Medios de pago: Transferencia bancaria, Tarjeta de credito, Ahora 12 y 18, Mercado pago" class="img-fluid border">
           </div>
         </div>
       </div>
 
-    <?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
+    <?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/footer.php"; ?>
 
 

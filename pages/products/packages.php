@@ -1,6 +1,7 @@
 <?php
-  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/banners.json');
-  $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/packages.json');
+  session_start();
+  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/banners.json');
+  $json_packages = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/packages.json');
   $banners = json_decode($json_banners, true);
   $packages = json_decode($json_packages, true);
 ?>
@@ -10,10 +11,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP - Paquetes</title>
-  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/imports.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/header.php"; ?>
 <!-- Titulo -->
 <?php
   $randomImage = $banners['ads'][array_rand($banners['ads'])]['img'];
@@ -57,7 +58,7 @@
         echo '<div class="carousel-item">';
         echo '<div class="card-group">';
       }
-      echo '<a href="/TurismoPOP/pages/products/package.php?id='.$v['id'].'" class="card text-decoration-none">
+      echo '<a href="/pages/products/package.php?id='.$v['id'].'" class="card text-decoration-none">
               <img src="'.$v['img'].'" class="card-img-top" alt="'.$v['name'].'">
               <div class="card-body">
                   <h5 class="card-title">'.$v['name'].'</h5>
@@ -79,6 +80,6 @@
     echo '</div>';
     echo '</div>';
   }
- include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
+ include $_SERVER['DOCUMENT_ROOT']."/pages/components/footer.php"; ?>
 
 

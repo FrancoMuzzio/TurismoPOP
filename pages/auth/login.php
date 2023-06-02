@@ -1,5 +1,7 @@
 <?php
-  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/banners.json');
+  session_start();
+
+  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/banners.json');
   $banners = json_decode($json_banners, true);
 ?>
 <!DOCTYPE html>
@@ -8,20 +10,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP - Ingresar</title>
-  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/imports.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/header.php"; ?>
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-  $json_users = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/users.json');
+  $json_users = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/users.json');
   $users = json_decode($json_users, true);
   $username = $_POST['username'];
   $password = $_POST['password'];
   foreach ($users as $user) {
     if ($user['username'] == $username) {
       $_SESSION['loggedUser'] = $user;
-      header('Location: /TurismoPOP/index.php');
+      header('Location: /index.php');
       exit();
     }
   }
@@ -56,7 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </div>
       </form>
       <div class="text-center">
-        <a class="text-danger " href="#">Olvide mi contraseña</a> | <a  href="/TurismoPOP/pages/auth/register.php">Registrarse</a>
+        <a class="text-danger " href="#">Olvide mi contraseña</a> | <a  href="/pages/auth/register.php">Registrarse</a>
       </div>
     </div>
   </div>
@@ -64,6 +66,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
 
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/footer.php"; ?>
 
 

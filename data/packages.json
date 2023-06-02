@@ -20,7 +20,7 @@
         "Asistencia de personal experto para garantizar que tu estadía sea placentera y que todas tus necesidades sean atendidas."
       ],
       "price": 999.99,
-      "img": "/TurismoPOP/assets/img/packages/caribe/bayahibe_1.jpg"
+      "img": "/assets/img/packages/caribe/bayahibe_1.jpg"
     },
     {
       "id": 2,
@@ -42,7 +42,7 @@
         "Personal atento y amable que estará a tu disposición para asegurarse de que disfrutes al máximo de tu estancia."
       ],
       "price": 799.99,
-      "img": "/TurismoPOP/assets/img/packages/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg"
+      "img": "/assets/img/packages/caribe/cataloniagrandominicus-beach-terrace-400x240-crop.jpg"
     },
     {
       "id": 3,
@@ -66,7 +66,7 @@
         "Comodidad y conveniencia: Al elegir un resort en la Riviera Maya, puedes disfrutar de una experiencia todo incluido, lo que significa que no tienes que preocuparte por organizar detalles adicionales, como comidas o actividades, ya que muchas cosas están incluidas en tu estancia."
       ],
       "price": 1345.80,
-      "img": "/TurismoPOP/assets/img/packages/caribe/htl_coral_y_turquesa-400x240-crop.jpg"
+      "img": "/assets/img/packages/caribe/htl_coral_y_turquesa-400x240-crop.jpg"
     },
     {
       "id": 4,
@@ -90,7 +90,7 @@
         "Opciones de entretenimiento y vida nocturna:"
       ],
       "price": 1425.85,
-      "img": "/TurismoPOP/assets/img/packages/caribe/iberostarhd-pool-400x240-crop.jpg"
+      "img": "/assets/img/packages/caribe/iberostarhd-pool-400x240-crop.jpg"
     },
     {
       "id": 5,
@@ -112,7 +112,7 @@
         "Ubicación privilegiada cerca de atracciones turísticas, playas de ensueño y actividades emocionantes para que puedas explorar y disfrutar al máximo tu destino."
       ],
       "price": 1199.99,
-      "img": "/TurismoPOP/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg"
+      "img": "/assets/img/packages/caribe/ib_csp2-400x240-crop.jpg"
     },
     {
       "id": 6,
@@ -136,7 +136,7 @@
         "Servicios turísticos de calidad: La zona turística en el Mar Caribe de México cuenta con una infraestructura turística bien desarrollada, lo que significa que puedes esperar una amplia gama de servicios de alta calidad, como alojamiento, restaurantes, actividades y transporte, para brindarte una experiencia cómoda y placentera."
       ],
       "price": 1522.45,
-      "img": "/TurismoPOP/assets/img/packages/caribe/riviera-maya_1.jpg"
+      "img": "/assets/img/packages/caribe/riviera-maya_1.jpg"
     }
   ],
   "brasil": [
@@ -162,7 +162,7 @@
         "Hospitalidad y cultura local: Los habitantes de Angra dos Reis son conocidos por su cálida hospitalidad y amabilidad. Al elegir esta ubicación, tendrás la oportunidad de sumergirte en la cultura local, interactuar con los residentes y aprender más sobre la vida en esta encantadora región de Brasil."
       ],
       "price": 548.75,
-      "img": "/TurismoPOP/assets/img/packages/brasil/ANGRA-DOS-REIS-con-Aerolineas-Argentinas-2021_14.jpg"
+      "img": "/assets/img/packages/brasil/ANGRA-DOS-REIS-con-Aerolineas-Argentinas-2021_14.jpg"
     },
     {
       "id": 8,
@@ -186,7 +186,7 @@
         "Atmosfera encantadora: Búzios conserva su encanto original de pueblo de pescadores con calles adoquinadas, casas coloridas y un ambiente relajado. Te permite sumergirte en la cultura local y disfrutar de la autenticidad de la región."
       ],
       "price": 685.95,
-      "img": "/TurismoPOP/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg"
+      "img": "/assets/img/packages/brasil/Buzios-con-AEROLINEAS-ARGENTINAS_16.jpg"
     },
     {
       "id": 9,
@@ -210,7 +210,7 @@
         "Servicio de calidad y hospitalidad: Costa do Sauípe es conocido por su cálida hospitalidad y atención al cliente. El personal del complejo turístico está capacitado para brindar un servicio de alta calidad y garantizar que tu estadía sea placentera y satisfactoria."
       ],
       "price": 748.26,
-      "img": "/TurismoPOP/assets/img/packages/brasil/Costa-Do-Sauipe--Semana-Santa-2021---Cupos-Latam_77.jpg"
+      "img": "/assets/img/packages/brasil/Costa-Do-Sauipe--Semana-Santa-2021---Cupos-Latam_77.jpg"
     },
     {
       "id": 10,
@@ -234,7 +234,7 @@
         "Infraestructura turística: Puerto de Galinhas cuenta con una buena infraestructura turística, con una amplia gama de hoteles, resorts, restaurantes y servicios para satisfacer las necesidades de los visitantes. Puedes encontrar alojamientos de calidad y disfrutar de servicios confiables durante tu estadía."
       ],
       "price": 545.00,
-      "img": "/TurismoPOP/assets/img/packages/brasil/porto-de-galinhas_1.jpg"
+      "img": "/assets/img/packages/brasil/porto-de-galinhas_1.jpg"
     },
     {
       "id": 11,
@@ -258,7 +258,7 @@
         "Acceso a otras atracciones cercanas: Salvador de Bahía es un punto de partida ideal para explorar otras atracciones de la región, como las playas de la Costa dos Coqueiros, la isla de Itaparica y el Parque Nacional Marinho de Abrolhos. Puedes combinar tu visita a Salvador con excursiones y explorar más de la belleza natural y cultural de Bahía."
       ],
       "price": 689.99,
-      "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_26.jpg"
+      "img": "/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_26.jpg"
     },
     {
       "id": 12,
@@ -282,7 +282,7 @@
         "Acceso a otras atracciones: Aunque el hotel está cerca del aeropuerto, también te brinda la oportunidad de explorar otras atracciones cercanas. Puedes aprovechar tu estancia para visitar el centro histórico de Salvador, las playas y otros lugares de interés turístico de la ciudad."
       ],
       "price": 267.89,
-      "img": "/TurismoPOP/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
+      "img": "/assets/img/packages/brasil/SALVADOR---VAC-DE-INVIERNO-JULIO---Cupos-Latam_58.jpg"
     }
   ],
   "New York": [
@@ -308,7 +308,7 @@
         "Experiencia enriquecedora: Un city tour te permite sumergirte en la vibrante atmósfera de Nueva York y disfrutar de una experiencia enriquecedora, explorando los lugares más icónicos de la ciudad y descubriendo su encanto único."
       ],
       "price": 45.00,
-      "img": "/TurismoPOP/assets/img/packages/new_york/ny002.png"
+      "img": "/assets/img/packages/new_york/ny002.png"
     },
     {
       "id": 14,
@@ -332,7 +332,7 @@
         "Guía experto: Durante el city tour nocturno, contarás con un guía experto que te brindará información detallada sobre los lugares visitados y te contará historias fascinantes sobre la ciudad de Nueva York de noche."
       ],
       "price": 75.00,
-      "img": "/TurismoPOP/assets/img/packages/new_york/ny001.jpg"
+      "img": "/assets/img/packages/new_york/ny001.jpg"
     },
     {
       "id": 15,
@@ -356,7 +356,7 @@
         "Recuerdos duraderos: Al capturar imágenes memorables de Central Park, tendrás recuerdos duraderos de tu visita. Podrás revivir tus experiencias y compartir tus fotografías con amigos y familiares, manteniendo viva la magia de Central Park."
       ],
       "price": 45.00,
-      "img": "/TurismoPOP/assets/img/packages/new_york/ny003.jpg"
+      "img": "/assets/img/packages/new_york/ny003.jpg"
     },
     {
       "id": 16,
@@ -380,7 +380,7 @@
         "Experiencia enriquecedora: Un tour en Times Square te brinda una experiencia enriquecedora al sumergirte en la cultura, la historia y la energía de este lugar emblemático. Aprenderás y disfrutarás al máximo de tu visita."
       ],
       "price": 52.00,
-      "img": "/TurismoPOP/assets/img/packages/new_york/ny004.jpg"
+      "img": "/assets/img/packages/new_york/ny004.jpg"
     },
     {
       "id": 17,
@@ -404,7 +404,7 @@
         "Experiencia educativa: La visita guiada a la Estatua de la Libertad es una experiencia educativa que te permitirá aprender sobre la historia y la cultura de los Estados Unidos. Aprenderás sobre la inmigración, la lucha por la libertad y los valores fundamentales que definen a este país."
       ],
       "price": 85.00,
-      "img": "/TurismoPOP/assets/img/packages/new_york/ny005.jpeg"
+      "img": "/assets/img/packages/new_york/ny005.jpeg"
     },
     {
       "id": 18,
@@ -428,7 +428,7 @@
         "Momentos memorables: Un paseo en barco nocturno por Nueva York es una experiencia inolvidable. Disfrutarás de momentos mágicos y creará recuerdos duraderos que te acompañarán mucho después de que termine tu viaje."
       ],
       "price": 99.99,
-      "img": "/TurismoPOP/assets/img/packages/new_york/ny006.webp"
+      "img": "/assets/img/packages/new_york/ny006.webp"
     }
   ]
 }

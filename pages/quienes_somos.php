@@ -1,6 +1,7 @@
 <?php
+  session_start();
   // IMPORTACIONES
-  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/TurismoPOP/data/banners.json');
+  $json_banners = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/banners.json');
   $banners = json_decode($json_banners, true);
 ?>
 
@@ -10,10 +11,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TurismoPOP - Quienes somos</title>
-  <link rel="shortcut icon" href="/TurismoPOP/assets/img/logos/logo_trans.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/img/logos/logo_trans.png" type="image/x-icon">
   <body class="d-flex flex-column h-100"  style="min-height: 100vh;"> 
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/imports.php"; ?>
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/imports.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/header.php"; ?>
 <!-- Titulo -->
 <?php
   $randomImage = $banners['ads'][array_rand($banners['ads'])]['img'];
@@ -29,7 +30,7 @@
 <div class="container">
     <div class="row">
     <div class="col-4 d-flex align-items-center justify-content-center">
-        <img src="/TurismoPOP/assets/img/logos/logo_turismopop_transparente.png" alt="Logo TurismoPOP">
+        <img src="/assets/img/logos/logo_turismopop_transparente.png" alt="Logo TurismoPOP">
     </div>
         <div class="col-8">
             <h1 class="text-info">Quienes somos?</h1>
@@ -87,6 +88,6 @@
     </div>
 </div>
 
-<?php include $_SERVER['DOCUMENT_ROOT']."/TurismoPOP/pages/components/footer.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT']."/pages/components/footer.php"; ?>
 
 

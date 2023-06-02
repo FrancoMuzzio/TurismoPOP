@@ -20,7 +20,7 @@
           </div>
           <div class="col-6">
             <div class="row">
-              <a href="/TurismoPOP/pages/quienes_somos.php">¿Quienes somos?</a>
+              <a href="/pages/quienes_somos.php">¿Quienes somos?</a>
             </div>
             <div class="row mt-3">
               <p>Turismo POP S.A. - Categoría: E.V.T. | Legajo 4402 | Disposición 500/87</p>
